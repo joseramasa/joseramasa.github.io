@@ -16,6 +16,8 @@ schedule:
     materials:
       - name: Slides (PDF)
         url: /assets/teaching/bari-pqc-2025.pdf
+      - name: Lecture Notes (PDF)
+        url: /assets/teaching/bari-pqc-notes-2025.pdf
 
   - week: 2
     date: July 8, 2025
