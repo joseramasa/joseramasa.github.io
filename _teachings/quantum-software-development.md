@@ -28,8 +28,3 @@ This course is part of the [Postgraduate Course in Quantum Engineering](https://
 
 **Institution:** Universitat Politècnica de Catalunya (UPC)
 
-### Additional Seminars
-
-**July 2025** — Master of Quantum Science and Technology, Università degli Studi di Bari Aldo Moro (Italy)
-- Post-Quantum Cryptography (3h, July 7) · [Slides (PDF)](/assets/teaching/bari-pqc-2025.pdf)
-- Quantum Random Number Generation (3h, July 8) · [Slides (PDF)](/assets/teaching/bari-qrng-2025.pdf)
