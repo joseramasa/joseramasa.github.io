@@ -1,0 +1,104 @@
+cv:
+  name: José Ramón Martínez Saavedra
+  label: VP of Innovation · Physicist
+  email: jrmsaavedra@gmail.com
+  location: Barcelona, Spain
+  image: ""
+  summary: Physicist and technologist leading research and innovation in quantum random number generation, photonics, and high-performance computing at Quside Technologies.
+
+  social_networks:
+    - network: GitHub
+      username: joseramasa
+    - network: LinkedIn
+      username: jrmsaavedra
+
+  sections:
+    Experience:
+      - company: Quside Technologies S.L.
+        position: VP of Innovation · Lead Scientist
+        location: Barcelona, Spain
+        start_date: 2018
+        end_date:
+        summary: Leading research, IP strategy, competitive funding, and technology transfer in quantum technologies and photonics.
+        highlights:
+          - Research leadership in quantum random number generation, photonics, and cybersecurity
+          - IP portfolio management — 8 patent families (US, EP, CN, JP)
+          - PI of Horizon Europe project RPU (€3.9M) and CDTI project PICNET (€1.75M)
+          - Technology transfer from fundamental research to market-ready products
+
+    Education:
+      - institution: Valar Institute (Quantic School of Business and Technology)
+        location: Washington, DC
+        area: Business Administration
+        studyType: MBA
+        start_date: 2024
+        end_date: 2025
+
+      - institution: Universitat Politècnica de Catalunya (UPC) / ICFO
+        location: Barcelona, Spain
+        area: Photonics
+        studyType: PhD
+        start_date: 2014
+        end_date: 2018
+        highlights:
+          - "Cum Laude. Director: F. Javier García de Abajo"
+
+      - institution: UPC, UAB, UB, ICFO
+        location: Barcelona, Spain
+        area: Photonics
+        studyType: MSc
+        start_date: 2013
+        end_date: 2014
+
+      - institution: Universidad Complutense de Madrid
+        location: Madrid, Spain
+        area: Fundamental Physics
+        studyType: Licenciado en Física
+        start_date: 2008
+        end_date: 2013
+
+      - institution: Universitat Oberta de Catalunya
+        location: Barcelona, Spain
+        area: Law
+        studyType: Grado en Derecho (in progress)
+        start_date: 2018
+        end_date:
+
+    Awards:
+      - title: Torres Quevedo Postdoctoral Contract
+        date: 2018
+        awarder: Agencia Estatal de Investigación
+        summary: "Ref: PTQ2018-010146"
+
+      - title: FI-DGR 2015 Predoctoral Fellowship
+        date: 2015
+        awarder: AGAUR, Generalitat de Catalunya
+        summary: "Ref: 2015 FI_B 00492"
+
+    Research Stays:
+      - company: Palo Alto Research Center (PARC) — Xerox
+        position: Research Intern
+        location: Palo Alto, California, US
+        start_date: 2017-05
+        end_date: 2017-08
+        summary: "Radar technologies, environmental sensors, optical filters, antenna design, and energy harvesting. Resulting in joint publications and patents."
+
+    Languages:
+      - name: Spanish
+        summary: Native
+
+      - name: English
+        summary: B2 certified (UOC, 2024)
+
+    Interests:
+      - name: Quantum Technologies
+        icon: fa-solid fa-atom
+        keywords: "Random number generation, Post-quantum cryptography, Quantum computing"
+
+      - name: Intellectual Property & Law
+        icon: fa-solid fa-scale-balanced
+        keywords: "Patent prosecution, Technology regulation, Pursuing Law degree (UOC)"
+
+      - name: Science Outreach
+        icon: fa-solid fa-book
+        keywords: "Author of chapters in: Ciencia y además lo entiendo, Ciencia y yo quiero ser científico, Ciencia y otras easy pieces"
