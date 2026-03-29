@@ -71,6 +71,11 @@ ninja.data = [{
           description: "Visual novel interactiva para aprender Derecho Procesal Civil. Construida con Ren&#39;Py.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/con-la-venia/";
+            },},{id: "projects-science-outreach-books",
+          title: 'Science Outreach Books',
+          description: "Author of chapters in three popular science books in Spanish, coordinated by Quintín Garrido.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/divulgacion/";
             },},{id: "projects-el-fotonario",
           title: 'El Fotonario',
           description: "Óptica interactiva en español. De Fourier al plasmón, pasando por la fibra óptica. 9 cursos, 145 ejercicios, 78 visualizaciones.",

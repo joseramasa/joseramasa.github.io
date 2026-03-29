@@ -10,20 +10,22 @@ Since 2018 he serves as VP of Innovation and Lead Scientist at Quside Technologi
 
 ## Research Output
 
-- 22 peer-reviewed publications in Nature, ACS Photonics, Physical Review B, Nano Letters, PNAS, npj Quantum Information, APL Quantum, Physical Review Applied, and others (2014–2026)
+- 22 publications (20 peer-reviewed + 2 theses) in Nature, ACS Photonics, Physical Review B, Nano Letters, PNAS, npj Quantum Information, APL Quantum, Physical Review Applied, and others (2014–2026)
 - 8 patent families as co-inventor across US, EP, CN, JP jurisdictions (2018–2023)
 - Research topics: quantum random number generation, post-quantum cryptography, graphene plasmonics, nanophotonics, quantum computing, spin glasses, Monte Carlo methods
 
 ## Teaching
 
 - Lecturer, "Software Architecture for Quantum Computers" — UPC Postgraduate Course in Quantum Engineering (2021–present)
-- Invited seminars at Universidad Complutense de Madrid, Università di Bari, OCP Global Summit, QSecDef, ESADE Tech2X, Akademia (Bankinter)
+- Invited seminars at Universidad Complutense de Madrid, Università di Bari, OCP Global Summit, QSecDef, Akademia (Bankinter)
+- Mentoring: UPC PAE (ETSETB), ESADE Tech2X
 - PhD thesis supervisor at UPC/ICFO (1 completed, 1 in progress)
 - Master's thesis supervisor (4 completed)
 
 ## Key Links
 
 - Homepage: https://joseramasa.github.io
+- Projects: https://joseramasa.github.io/projects/
 - Publications: https://joseramasa.github.io/publications/
 - Patents: https://joseramasa.github.io/patents/
 - Research: https://joseramasa.github.io/research/
