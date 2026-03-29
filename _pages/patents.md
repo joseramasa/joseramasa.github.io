@@ -26,7 +26,7 @@ C Abellán Sánchez, MR Casas, F de la Iglesia Medina, **JRM Saavedra**
 ## 2021
 
 [**Computer-implemented method for finding an approximate solution for a quadratic unconstrained binary optimization problem**](https://patents.google.com/patent/EP4123480A1)
-J Bowles, P Huembeli, A Dauphin, **J Martínez, JRM Saavedra**
+J Bowles, P Huembeli, A Dauphin, **JRM Saavedra**
 *US Patent App. 18/682,285; EP 4123480 A1; WO 2023/001769 A1*
 
 ## 2020
