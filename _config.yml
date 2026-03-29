@@ -52,15 +52,19 @@ og_image: assets/img/prof_pic.jpg
 # -----------------------------------------------------------------------------
 
 blog_name: blog
-blog_description:
+blog_description: Quantum tech, IP, law, and everything in between.
 permalink: /blog/:year/:title/
 lsi: false
 
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
+  max_related: 3
+
+display_tags: ["quantum", "law", "ip", "outreach"]
+display_categories: []
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -110,6 +114,7 @@ keep_files:
 
 plugins:
   - jekyll-3rd-party-libraries
+  - jekyll-archives-v2
   - jekyll-cache-bust
   - jekyll-email-protect
   - jekyll-feed
@@ -126,6 +131,14 @@ plugins:
   - jekyll-terser
   - jekyll-toc
   - jemoji
+
+jekyll-archives:
+  posts:
+    enabled: [year, tags, categories]
+    permalinks:
+      year: "/blog/:year/"
+      tags: "/blog/:type/:name/"
+      categories: "/blog/:type/:name/"
 
 defaults:
   - scope:

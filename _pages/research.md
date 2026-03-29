@@ -9,14 +9,14 @@ nav_order: 3
 
 ## Research Projects
 
-**Quantum-based Randomness Processing Units (RPUs) for High-Performance Computation and Data Security**
+**Quantum-based Randomness Processing Units (RPUs) for High-Performance Computation and Data Security** *(completed)*
 - **Role:** Principal Investigator (Quside Technologies S.L.)
 - **Funding:** Horizon Europe — European Innovation Council (EIC)
 - **Reference:** Grant Agreement ID 101145131
 - **Budget:** €3,908,437.50 (EU contribution: €2,499,999.00)
 - **Period:** 03/2024 – 02/2026
 
-**Investigación de circuitos fotónicos para redes ópticas de comunicaciones y centros de datos de próxima generación (PICNET)**
+**Investigación de circuitos fotónicos para redes ópticas de comunicaciones y centros de datos de próxima generación (PICNET)** *(completed)*
 - **Role:** Principal Investigator (Quside Technologies S.L.)
 - **Funding:** CDTI
 - **Reference:** Expediente MIG-20241133

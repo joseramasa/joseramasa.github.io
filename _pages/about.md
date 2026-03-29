@@ -23,10 +23,12 @@ latest_posts:
   enabled: false
 ---
 
-I am a physicist and technologist leading research and innovation at [Quside Technologies](https://quside.com), where I serve as VP of Innovation and Lead Scientist. My work bridges fundamental quantum physics with market-ready products in **quantum random number generation**, **photonics**, **post-quantum cryptography**, and **high-performance computing**.
+I am a physicist and technologist leading research and innovation at [Quside Technologies](https://quside.com), where I serve as VP of Innovation and Lead Scientist. I work on taking quantum physics from the lab to real-world products — designing and building **quantum random number generators**, integrating them with **post-quantum cryptography** stacks, and pushing their use into **high-performance computing** and **cybersecurity** applications.
+
+On a day-to-day basis, I lead Quside's R&D strategy, manage our **international patent portfolio** (8 families across US, EP, CN, JP), and coordinate competitive public funding. I also bridge the gap between our photonics hardware and the software and systems that make it useful at scale.
 
 I hold a **Ph.D. in Photonics** from Universitat Politècnica de Catalunya / ICFO (2018, *Cum Laude*), supervised by Prof. F. Javier García de Abajo, and an **MBA** from Valar Institute (2025). My academic roots are in Physics at Universidad Complutense de Madrid.
 
-I am Principal Investigator of the Horizon Europe project [RPU](https://cordis.europa.eu/project/id/101145131) (€3.9M) and the CDTI project PICNET. I also teach *Software Architecture for Quantum Computers* at UPC's [Postgraduate Course in Quantum Engineering](https://www.talent.upc.edu/ing/estudis/formacio/curs/331400/postgrau-quantum-engineering/), and supervise doctoral and master's theses.
+I teach *Software Architecture for Quantum Computers* at UPC's [Postgraduate Course in Quantum Engineering](https://www.talent.upc.edu/ing/estudis/formacio/curs/331400/postgrau-quantum-engineering/), and supervise doctoral and master's theses at UPC and ICFO.
 
-Beyond physics, I am pursuing a **Law degree** at Universitat Oberta de Catalunya — a long-standing interest in the intersection of technology, intellectual property, and regulation. I have also contributed chapters to three popular science books and served as an elected member of the Faculty Board at UCM.
+Beyond physics, I am pursuing a **Law degree** at Universitat Oberta de Catalunya — a long-standing interest in the intersection of technology, intellectual property, and regulation. I have also contributed chapters to three popular science books.
