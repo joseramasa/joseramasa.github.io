@@ -22,7 +22,7 @@ cv:
         summary: Leading research, IP strategy, competitive funding, and technology transfer in quantum technologies and photonics.
         highlights:
           - Research leadership in quantum random number generation, photonics, and cybersecurity
-          - IP portfolio management — 8 patent families (US, EP, CN, JP)
+          - IP portfolio management — 30+ patent families (co-inventor in 8, across US, EP, CN, JP)
           - PI of Horizon Europe project RPU (€3.9M) and CDTI project PICNET (€1.75M)
           - Technology transfer from fundamental research to market-ready products
 
@@ -83,6 +83,67 @@ cv:
         end_date: 2017-08
         summary: "Radar technologies, environmental sensors, optical filters, antenna design, and energy harvesting. Resulting in joint publications and patents."
 
+    Teaching:
+      - company: Universitat Politècnica de Catalunya (UPC)
+        position: Postgraduate Lecturer — Software Architecture for Quantum Computers
+        location: Barcelona, Spain
+        start_date: 2021
+        end_date:
+        summary: "Annual course at the Postgraduate Course in Quantum Engineering. 3 hours/year."
+
+      - company: Università degli Studi di Bari Aldo Moro
+        position: Invited Lecturer — PQC & QRNG Seminars
+        location: Bari, Italy
+        start_date: 2025
+        end_date: 2025
+        summary: "Master of Quantum Science and Technology. Post-Quantum Cryptography (3h) and Quantum Random Number Generation (3h)."
+
+      - company: QSecDef
+        position: Course Author & Presenter — QRNG for Cybersecurity and Blockchain
+        location: Online
+        start_date: 2026
+        end_date: 2026
+        summary: "Certified training course. Co-authored and co-presented with David Worrall. 4–5 hours."
+
+    Thesis Supervision:
+      - title: "Optimization with spin glass models (PhD)"
+        authors:
+          - David Cirauqui García
+        date: 2024-09-27
+        awarder: UPC / ICFO
+        summary: "Completed. Sobresaliente. Co-supervised with Prof. Maciej Lewenstein."
+
+      - title: "Geometric Deep Learning in the Quantum Sciences (PhD)"
+        authors:
+          - Timothy Heightman
+        date: 2024
+        awarder: ICFO
+        summary: "In progress. Co-supervised with Prof. Antonio Acín."
+
+    Mentoring:
+      - company: UPC — ETSETB
+        position: Industry Mentor — Proyecto Aplicado de Ingeniería (PAE)
+        location: Barcelona, Spain
+        start_date: 2025
+        end_date: 2025
+
+      - company: ESADE / EIT Higher Education Initiative
+        position: Mentor — Tech2X
+        location: Barcelona, Spain
+        start_date: 2025
+        end_date: 2025
+
+    Personal Projects:
+      - name: El Fotonario
+        summary: "Interactive photonics education platform in Spanish. 9 courses, 145 exercises, 78 visualizations. [joseramasa.github.io/fotonica](https://joseramasa.github.io/fotonica/)"
+        start_date: 2026
+        end_date:
+
+      - name: Con la Venia
+        summary: "Interactive visual novel for learning Spanish civil procedural law, built with Ren'Py. [joseramasa.github.io/con-la-venia](https://joseramasa.github.io/con-la-venia/)"
+        start_date: 2026
+        end_date:
+
     Languages:
       - name: Spanish
         summary: Native
@@ -101,4 +162,4 @@ cv:
 
       - name: Science Outreach
         icon: fa-solid fa-book
-        keywords: "Author of chapters in: Ciencia y además lo entiendo, Ciencia y yo quiero ser científico, Ciencia y otras easy pieces"
+        keywords: "Author of chapters in: [Ciencia y además lo entiendo](https://divulgacioncientificadecientificos.blogspot.com/p/libro-book.html), [Ciencia y yo quiero ser científico](https://cienciayyoquierosercientifico.blogspot.com/), [Ciencia y otras easy pieces](https://cienciayotraseasypieces.blogspot.com/)"

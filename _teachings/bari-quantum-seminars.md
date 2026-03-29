@@ -28,6 +28,6 @@ schedule:
 
 ## Course Overview
 
-Invited seminars at the [Master of Quantum Science and Technology](https://www.uniba.it/) at Università degli Studi di Bari Aldo Moro (Italy). Two sessions of 3 hours each covering post-quantum cryptography and quantum random number generation.
+Invited seminars at the [Master of Quantum Science and Technology](https://www.masterquantum.it/it/home-2/) at Università degli Studi di Bari Aldo Moro (Italy). Two sessions of 3 hours each covering post-quantum cryptography and quantum random number generation.
 
 **Institution:** Università degli Studi di Bari Aldo Moro
