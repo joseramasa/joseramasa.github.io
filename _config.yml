@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JRM Saavedra
-author: Jose Ramon Martinez Saavedra
+title: José R. Martínez Saavedra
+author: José Ramón Martínez Saavedra
 email: jrmsaavedra@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. student in the Nanophotonics Theory Group 
-  at ICFO-The Institute of Photonic Sciences. 
+description: >-
+  VP of Innovation at Quside Technologies.
+  Quantum technologies, photonics, randomness generation, and cybersecurity.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://joseramasa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  joseramasa
+github_username: joseramasa
 
 # Build settings
 markdown: kramdown
@@ -32,22 +31,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-- research.md
 - publications.md
-- bioCV.md
-- blog.md
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-theme: jekyll-theme-minimal
+- patents.md
+- research.md
+- teaching.md
+- cv.md
