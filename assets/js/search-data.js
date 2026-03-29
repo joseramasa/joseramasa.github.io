@@ -81,6 +81,11 @@ ninja.data = [{
           description: "Óptica interactiva en español. De Fourier al plasmón, pasando por la fibra óptica. 9 cursos, 145 ejercicios, 78 visualizaciones.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fotonario/";
+            },},{id: "projects-pqc-course",
+          title: 'PQC Course',
+          description: "Post-Quantum Cryptography course materials (slides + lecture notes). Work in progress.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pqc-course/";
             },},{id: "teachings-pqc-amp-qrng-seminars-università-di-bari",
           title: 'PQC &amp;amp; QRNG Seminars — Università di Bari',
           description: "Invited seminars on Post-Quantum Cryptography and Quantum Random Number Generation at the Master of Quantum Science and Technology.",
