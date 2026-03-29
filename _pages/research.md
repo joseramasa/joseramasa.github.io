@@ -9,14 +9,14 @@ nav_order: 3
 
 ## Research Projects
 
-**Quantum-based Randomness Processing Units (RPUs) for High-Performance Computation and Data Security** *(completed)*
+[**Quantum-based Randomness Processing Units (RPUs) for High-Performance Computation and Data Security**](https://cordis.europa.eu/project/id/101145131) *(completed)*
 - **Role:** Principal Investigator (Quside Technologies S.L.)
 - **Funding:** Horizon Europe — European Innovation Council (EIC)
 - **Reference:** Grant Agreement ID 101145131
 - **Budget:** €3,908,437.50 (EU contribution: €2,499,999.00)
 - **Period:** 03/2024 – 02/2026
 
-**Investigación de circuitos fotónicos para redes ópticas de comunicaciones y centros de datos de próxima generación (PICNET)** *(completed)*
+[**Investigación de circuitos fotónicos para redes ópticas de comunicaciones y centros de datos de próxima generación (PICNET)**](https://ipronics.com/proyecto-misiones-picnet-investigacion-de-circuitos-fotonicos-para-redes-opticas-de-comunicaciones-y-centros-de-datos-de-proxima-generacion/) *(completed)*
 - **Role:** Principal Investigator (Quside Technologies S.L.)
 - **Funding:** CDTI
 - **Reference:** Expediente MIG-20241133
@@ -29,7 +29,7 @@ nav_order: 3
 
 ### Completed
 
-**Optimization with spin glass models** — David Cirauqui García
+[**Optimization with spin glass models**](/assets/pdf/2024-thesis-cirauqui.pdf) — David Cirauqui García
 - Universitat Politècnica de Catalunya (UPC) / ICFO
 - Defense: September 27, 2024. Grade: Sobresaliente (Outstanding)
 - Co-supervised with Prof. Maciej Lewenstein
@@ -53,9 +53,10 @@ nav_order: 3
 ### 2024
 - **"Desde la cuántica hasta la nube..."** — Invited seminar, UCM. October 2024.
 - **Quantum Random Number Generation** — OCP Global Summit, San Jose, CA. October 2024. [(video)](https://www.youtube.com/watch?v=z6G4WMxq8nE)
+- **Seminario Akademia** — Akademia (Fundación Innovación Bankinter). April 2024.
 
 ### 2021
-- **"De la Complu a la start-up: mis tres cisnes negros"** — Invited seminar, Día Internacional de la Luz, UCM.
+- **"De la Complu a la start-up: mis tres cisnes negros"** — Invited seminar, Día Internacional de la Luz, UCM. [(video)](https://docta.ucm.es/entities/publication/37a7c1ec-551e-4bf3-a70e-cb65a99003c7)
 
 ### 2018
 - **Analytical modeling of graphene plasmons** — SPIE Active Photonic Platforms X, San Diego, CA.
