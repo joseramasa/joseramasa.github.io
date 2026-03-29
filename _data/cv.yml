@@ -162,4 +162,7 @@ cv:
 
       - name: Science Outreach
         icon: fa-solid fa-book
-        keywords: "Author of chapters in: [Ciencia y además lo entiendo](https://divulgacioncientificadecientificos.blogspot.com/p/libro-book.html), [Ciencia y yo quiero ser científico](https://cienciayyoquierosercientifico.blogspot.com/), [Ciencia y otras easy pieces](https://cienciayotraseasypieces.blogspot.com/)"
+        keywords:
+          - '<a href="https://divulgacioncientificadecientificos.blogspot.com/p/libro-book.html" target="_blank">Ciencia y además lo entiendo</a> (Ch. 62 & 63)'
+          - '<a href="https://cienciayyoquierosercientifico.blogspot.com/" target="_blank">Ciencia y yo quiero ser científico</a> (Ch. 70)'
+          - '<a href="https://cienciayotraseasypieces.blogspot.com/" target="_blank">Ciencia y otras easy pieces</a> (Ch. 37)'

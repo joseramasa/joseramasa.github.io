@@ -18,6 +18,9 @@
           {% endif %}
         {% endfor %}
       {% endif %}
+      {% if entry.details %}
+        {{ entry.details }}
+      {% endif %}
     </div>
   {% endfor %}
 </div>
