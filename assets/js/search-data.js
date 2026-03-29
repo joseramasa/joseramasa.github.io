@@ -66,7 +66,12 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-lindbladian-learning-with-neural-differential-equations-with-t-heightman-r-aseguinolaza-gallo-e-jiang-a-acín-and-m-płodzień-arxiv-2603-07778",
           title: 'New preprint: Lindbladian Learning with Neural Differential Equations with T. Heightman, R. Aseguinolaza...',
           description: "",
-          section: "News",},{id: "teachings-software-architecture-for-quantum-computers",
+          section: "News",},{id: "teachings-pqc-amp-qrng-seminars-università-di-bari",
+          title: 'PQC &amp;amp; QRNG Seminars — Università di Bari',
+          description: "Invited seminars on Post-Quantum Cryptography and Quantum Random Number Generation at the Master of Quantum Science and Technology.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/bari-quantum-seminars/";
+            },},{id: "teachings-software-architecture-for-quantum-computers",
           title: 'Software Architecture for Quantum Computers',
           description: "Covers the full technology stack and software architecture for quantum computing. From quantum hardware to high-level software frameworks.",
           section: "Teachings",handler: () => {
