@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Personal projects on science education and law.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
@@ -66,7 +73,17 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-lindbladian-learning-with-neural-differential-equations-with-t-heightman-r-aseguinolaza-gallo-e-jiang-a-acín-and-m-płodzień-arxiv-2603-07778",
           title: 'New preprint: Lindbladian Learning with Neural Differential Equations with T. Heightman, R. Aseguinolaza...',
           description: "",
-          section: "News",},{id: "teachings-pqc-amp-qrng-seminars-università-di-bari",
+          section: "News",},{id: "projects-con-la-venia",
+          title: 'Con la Venia',
+          description: "Visual novel interactiva para aprender Derecho Procesal Civil. Construida con Ren&#39;Py.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/con-la-venia/";
+            },},{id: "projects-el-fotonario",
+          title: 'El Fotonario',
+          description: "Óptica interactiva en español. De Fourier al plasmón, pasando por la fibra óptica. 9 cursos, 145 ejercicios, 78 visualizaciones.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fotonario/";
+            },},{id: "teachings-pqc-amp-qrng-seminars-università-di-bari",
           title: 'PQC &amp;amp; QRNG Seminars — Università di Bari',
           description: "Invited seminars on Post-Quantum Cryptography and Quantum Random Number Generation at the Master of Quantum Science and Technology.",
           section: "Teachings",handler: () => {
