@@ -2,3 +2,7 @@ User-agent: *
 Disallow:
 
 Sitemap: https://joseramasa.github.io/sitemap.xml
+
+# AI/LLM context
+# See https://llmstxt.org/
+LLMs-Txt: https://joseramasa.github.io/llms.txt

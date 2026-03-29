@@ -1,0 +1,40 @@
+# José Ramón Martínez Saavedra
+
+> VP of Innovation and Lead Scientist at Quside Technologies. Physicist specializing in quantum random number generation, post-quantum cryptography, photonics, and cybersecurity.
+
+## About
+
+José Ramón Martínez Saavedra is a physicist and technologist based in Barcelona, Spain. He holds a PhD in Photonics (Cum Laude) from Universitat Politècnica de Catalunya (UPC) and ICFO — The Institute of Photonic Sciences (2018), and an MBA from Valar Institute (2025). His academic roots are in Physics at Universidad Complutense de Madrid (UCM).
+
+Since 2018 he serves as VP of Innovation and Lead Scientist at Quside Technologies, where he leads R&D strategy in quantum random number generation (QRNG), post-quantum cryptography (PQC), and high-performance computing. He manages an international patent portfolio of 30+ families (co-inventor in 8) and coordinates competitive public funding including Horizon Europe and CDTI projects.
+
+## Research Output
+
+- 22 peer-reviewed publications in Nature, ACS Photonics, Physical Review B, Nano Letters, PNAS, npj Quantum Information, APL Quantum, Physical Review Applied, and others (2014–2026)
+- 8 patent families as co-inventor across US, EP, CN, JP jurisdictions (2018–2023)
+- Research topics: quantum random number generation, post-quantum cryptography, graphene plasmonics, nanophotonics, quantum computing, spin glasses, Monte Carlo methods
+
+## Teaching
+
+- Lecturer, "Software Architecture for Quantum Computers" — UPC Postgraduate Course in Quantum Engineering (2021–present)
+- Invited seminars at Universidad Complutense de Madrid, Università di Bari, OCP Global Summit, QSecDef, ESADE Tech2X, Akademia (Bankinter)
+- PhD thesis supervisor at UPC/ICFO (1 completed, 1 in progress)
+- Master's thesis supervisor (4 completed)
+
+## Key Links
+
+- Homepage: https://joseramasa.github.io
+- Publications: https://joseramasa.github.io/publications/
+- Patents: https://joseramasa.github.io/patents/
+- Research: https://joseramasa.github.io/research/
+- Teaching: https://joseramasa.github.io/teaching/
+- CV: https://joseramasa.github.io/cv/
+- GitHub: https://github.com/joseramasa
+- Employer: https://quside.com
+
+## Affiliations
+
+- Quside Technologies S.L. — VP of Innovation, Lead Scientist (2018–present)
+- Universitat Politècnica de Catalunya (UPC) — Postgraduate lecturer (2021–present)
+- ICFO — PhD thesis co-supervisor
+- Universidad Complutense de Madrid — Licenciado en Física (2008–2013)
