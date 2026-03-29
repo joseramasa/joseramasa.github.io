@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "news-our-paper-loophole-free-bell-inequality-violation-with-superconducting-circuits-published-in-nature-617-265-270",
           title: 'Our paper Loophole-free Bell inequality violation with superconducting circuits published in Nature 617,...',
           description: "",
