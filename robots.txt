@@ -5,3 +5,7 @@ User-agent: *
 Disallow:
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+
+# AI/LLM context
+# See https://llmstxt.org/
+LLMs-Txt: {{ site.baseurl | prepend: site.url }}/llms.txt

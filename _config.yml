@@ -7,11 +7,11 @@ first_name: José Ramón
 middle_name:
 last_name: Martínez Saavedra
 description: >
-  VP of Innovation at Quside Technologies. Quantum technologies, photonics, randomness generation, and cybersecurity.
+  José Ramón Martínez Saavedra — VP of Innovation at Quside Technologies. Physicist (PhD, ICFO/UPC). Quantum random number generation, post-quantum cryptography, photonics, and cybersecurity. 22 publications, 8 patents.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: quantum technologies, photonics, random number generation, cybersecurity, patents, physics
+keywords: José Ramón Martínez Saavedra, Quside, quantum random number generator, QRNG, post-quantum cryptography, PQC, quantum technologies, photonics, cybersecurity, patents, ICFO, UPC, randomness generation, high-performance computing, VP Innovation
 lang: en
 icon: ⚛️
 
