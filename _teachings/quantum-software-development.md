@@ -22,7 +22,7 @@ schedule:
 
 ## Course Overview
 
-This course is part of the [Postgraduate Course in Quantum Engineering](https://www.talent.upc.edu/ing/estudis/formacio/curs/331400/postgrau-quantum-engineering/) at Universitat Politècnica de Catalunya (UPC). It covers the full technology stack and software architecture for quantum computing, from hardware fundamentals to high-level programming frameworks.
+This course is part of the [Postgraduate Course in Quantum Engineering](https://upcschool.upc.edu/ing/estudis/formacio/curs/304400/postgrau-enginyeria-quantica/) at Universitat Politècnica de Catalunya (UPC). It covers the full technology stack and software architecture for quantum computing, from hardware fundamentals to high-level programming frameworks.
 
 **Taught since:** 2021 (annual)
 

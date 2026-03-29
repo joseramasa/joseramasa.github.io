@@ -44,12 +44,15 @@ nav_order: 3
 
 ## Conferences and Seminars
 
+### 2026
+- **QRNG for Cybersecurity and Blockchain** — [QSecDef](https://www.quantumsecuritydefence.com/qrng) certified training course. Co-authored and co-presented with David Worrall. January 21, 2026. (4–5 hours; being edited for release)
+
 ### 2025
 - **"Desde la cuántica hasta la nube: Generación de números aleatorios con tecnologías fotónicas de última generación"** — Invited seminar, UCM (Prof. Gemma Piquero Sanz). September 2025.
 
 ### 2024
 - **"Desde la cuántica hasta la nube..."** — Invited seminar, UCM. October 2024.
-- **Quantum Random Number Generation** — OCP Global Summit, San Jose, CA. October 2024.
+- **Quantum Random Number Generation** — OCP Global Summit, San Jose, CA. October 2024. [(video)](https://www.youtube.com/watch?v=z6G4WMxq8nE)
 
 ### 2021
 - **"De la Complu a la start-up: mis tres cisnes negros"** — Invited seminar, Día Internacional de la Luz, UCM.
