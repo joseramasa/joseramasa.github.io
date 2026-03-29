@@ -11,6 +11,15 @@ nav_order: 4
 
 ---
 
+## Mentoring
+
+| Year | Program | Institution | Role |
+|------|---------|-------------|------|
+| 2025 | [Proyecto Aplicado de Ingeniería (PAE)](https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios/asignaturas/PAE) | UPC — Facultat d'Informàtica de Barcelona | Industry mentor |
+| 2025 | [Tech2X](https://www.tech2x.eu/) | ESADE / EIT Higher Education Initiative | Mentor |
+
+---
+
 ## Master's Thesis Supervision
 
 | Year | Student | Title |

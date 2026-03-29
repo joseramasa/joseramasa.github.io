@@ -48,7 +48,7 @@ nav_order: 3
 - **QRNG for Cybersecurity and Blockchain** — [QSecDef](https://www.quantumsecuritydefence.com/qrng) certified training course. Co-authored and co-presented with David Worrall. January 21, 2026. (4–5 hours; being edited for release)
 
 ### 2025
-- **"Desde la cuántica hasta la nube: Generación de números aleatorios con tecnologías fotónicas de última generación"** — Invited seminar, UCM (Prof. Gemma Piquero Sanz). September 2025.
+- **"Desde la cuántica hasta la nube: Generación de números aleatorios con tecnologías fotónicas de última generación"** — Invited seminar, UCM (Prof. Gemma Piquero Sanz). September 2025. [(slides)](/assets/teaching/ucm-qrng-2025.pdf)
 
 ### 2024
 - **"Desde la cuántica hasta la nube..."** — Invited seminar, UCM. October 2024.
