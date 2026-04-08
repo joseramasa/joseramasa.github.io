@@ -272,7 +272,10 @@ lazy_loading_images: true
 
 enable_google_analytics: false
 enable_google_verification: false
-enable_cookie_consent: false
+# WARNING: cookie consent MUST be enabled before activating any analytics provider.
+# Analytics scripts are gated behind their own flags, but without cookie consent
+# they would fire immediately — violating GDPR. Keep this true as a safeguard.
+enable_cookie_consent: true
 enable_masonry: false
 enable_math: true
 enable_tooltips: false
