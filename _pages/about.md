@@ -7,7 +7,7 @@ subtitle: VP of Innovation · <a href="https://quside.com">Quside Technologies</
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
     <p>Barcelona, Spain</p>
 
