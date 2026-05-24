@@ -20,7 +20,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: false
+  enabled: true
 ---
 
 I am a physicist and technologist leading research and innovation at [Quside Technologies](https://quside.com), where I serve as VP of Innovation and Lead Scientist. I work on taking quantum physics from the lab to real-world products — designing and building **quantum random number generators**, integrating them with **post-quantum cryptography** stacks, and pushing their use into **high-performance computing** and **cybersecurity** applications.
