@@ -6,11 +6,11 @@
   {% for entry in entries %}
     <li class="list-group-item">
       {% if entry.url %}
-        <h6 class="title font-weight-bold">
+        <p class="title font-weight-bold mb-1">
           <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
-        </h6>
+        </p>
       {% else %}
-        <h6 class="title font-weight-bold">{{ entry.name }}</h6>
+        <p class="title font-weight-bold mb-1">{{ entry.name }}</p>
       {% endif %}
 
       {% if entry.summary %}

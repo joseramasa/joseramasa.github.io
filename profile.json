@@ -1,0 +1,78 @@
+{
+  "name": "Jose Ramon Martinez Saavedra",
+  "title": ["VP of Innovation", "Lead Scientist"],
+  "organization": {
+    "name": "Quside Technologies",
+    "url": "https://quside.com",
+    "role_start": "2018"
+  },
+  "location": "Barcelona, Spain",
+  "contact": {
+    "email": "jrmsaavedra@gmail.com",
+    "website": "https://joseramasa.github.io",
+    "github": "https://github.com/joseramasa",
+    "linkedin": "https://linkedin.com/in/jrmsaavedra"
+  },
+  "education": [
+    { "degree": "MBA", "institution": "Valar Institute", "year": 2025 },
+    { "degree": "PhD in Photonics", "institution": "UPC / ICFO", "year": 2018, "distinction": "Cum Laude" },
+    { "degree": "MSc in Photonics", "institution": "UPC / UAB / UB / ICFO", "year": 2014 },
+    { "degree": "Licenciado en Fisica", "institution": "Universidad Complutense de Madrid", "year": 2013 },
+    { "degree": "Grado en Derecho (in progress)", "institution": "Universitat Oberta de Catalunya", "start": 2018 }
+  ],
+  "expertise": [
+    "Quantum random number generation",
+    "Post-quantum cryptography",
+    "Photonics",
+    "Nanophotonics",
+    "High-performance computing",
+    "Cybersecurity",
+    "Patent strategy",
+    "R&D funding"
+  ],
+  "metrics": {
+    "publications": 22,
+    "patent_families_coinventor": 8,
+    "patent_families_managed": "30+",
+    "jurisdictions": ["US", "EP", "CN", "JP"],
+    "competitive_funding_eur": 5650000
+  },
+  "projects": [
+    {
+      "name": "NanophotonicsLab",
+      "url": "https://nanophotonicslab.com",
+      "description": "Open browser-based nanophotonics simulation toolkit"
+    },
+    {
+      "name": "El Fotonario",
+      "url": "https://joseramasa.github.io/fotonica/",
+      "description": "Interactive photonics education platform in Spanish"
+    },
+    {
+      "name": "PQC Course",
+      "url": "https://github.com/joseramasa/pqc-course",
+      "description": "Post-Quantum Cryptography course materials in LaTeX"
+    },
+    {
+      "name": "Con la Venia",
+      "url": "https://joseramasa.github.io/con-la-venia/",
+      "description": "Interactive visual novel for learning Spanish civil procedural law"
+    }
+  ],
+  "research_projects": [
+    {
+      "name": "RPU",
+      "funder": "Horizon Europe / EIC",
+      "grant": "101145131",
+      "budget_eur": 3900000,
+      "role": "PI (Quside)"
+    },
+    {
+      "name": "PICNET",
+      "funder": "CDTI",
+      "ref": "MIG-20241133",
+      "budget_eur": 1750000,
+      "role": "PI (Quside)"
+    }
+  ]
+}

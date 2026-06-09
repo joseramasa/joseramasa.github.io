@@ -1,0 +1,128 @@
+# Jose Ramon Martinez Saavedra — Full Profile
+
+> VP of Innovation and Lead Scientist at Quside Technologies. Builds deployable quantum-randomness infrastructure for cybersecurity, high-performance computing, and post-quantum systems.
+
+## Identity
+
+- Name: Jose Ramon Martinez Saavedra
+- Titles: VP of Innovation, Lead Scientist
+- Organization: Quside Technologies S.L. (2018–present)
+- Location: Barcelona, Spain
+- Email: jrmsaavedra@gmail.com
+- Website: https://joseramasa.github.io
+- GitHub: https://github.com/joseramasa
+- LinkedIn: https://linkedin.com/in/jrmsaavedra
+
+## Professional Focus
+
+Takes quantum physics from the lab to real-world products. Designs and builds quantum random number generators, integrates them with post-quantum cryptography stacks, and pushes their use into high-performance computing and cybersecurity applications.
+
+Leads Quside's R&D strategy, manages an international patent portfolio (30+ families; co-inventor in 8 across US, EP, CN, JP), and coordinates competitive public funding. Bridges the gap between photonics hardware and the software/systems that make it deployable at scale.
+
+## Education
+
+- MBA — Valar Institute (Quantic School of Business and Technology), 2024–2025
+- PhD in Photonics (Cum Laude) — Universitat Politecnica de Catalunya / ICFO, 2014–2018. Advisor: F. Javier Garcia de Abajo
+- MSc in Photonics — UPC, UAB, UB, ICFO, 2013–2014
+- Licenciado en Fisica (Fundamental Physics) — Universidad Complutense de Madrid, 2008–2013
+- Grado en Derecho (in progress) — Universitat Oberta de Catalunya, 2018–present
+
+## Research Output
+
+### Publications (22 total)
+
+Journals: Nature, ACS Photonics, Physical Review B, Nano Letters, PNAS, npj Quantum Information, APL Quantum, Physical Review Applied, Journal of Electronic Packaging, Journal of Physics A.
+
+Key publications:
+- Lindbladian Learning with Neural Differential Equations (arXiv, 2026)
+- Integration of QRNG with PQC algorithms (arXiv, 2025)
+- Comparing pseudo- and quantum-random number generators with Monte Carlo simulations (APL Quantum, 2024)
+- Loophole-free Bell inequality violation with superconducting circuits (Nature, 2023)
+- Quantum computing with graphene plasmons (npj Quantum Information, 2019)
+- Visible Optical Resonances in Electrically Doped DNA (ACS Photonics, 2019)
+- Hot-electron dynamics and thermalization in small metallic nanoparticles (ACS Photonics, 2016)
+
+### Patents (8 families as co-inventor)
+
+All families ordered by priority date, with jurisdictions US/EP/CN/JP:
+1. Method and apparatus for the acceleration of randomized workloads (2023) — WO 2025/093569 A1
+2. Methods, devices, and systems for entropy-related metrics (2023) — US 2025/0138785 A1
+3. Computer-implemented method for transforming a bit stream into a floating-point number (2022) — EP 4310666 A1; WO 2024/017907 A1
+4. Computer-implemented method for finding an approximate QUBO solution (2021) — EP 4123480 A1
+5. Computer-implemented method for random number threshold comparison (2020) — EP 3859520 B1
+6. Computer-implemented method for obtaining a CDF from a signal (2020) — EP 3937005 B1
+7. Compact device for generating random numbers (2019) — EP 3731081 B1
+8. Angle-insensitive multi-wavelength optical filters with hue control (2018) — US 10,928,569 B2
+
+### Competitive Funding
+
+- RPU — Quantum-based Randomness Processing Units for HPC and Data Security. PI (Quside). Horizon Europe / EIC. Grant Agreement 101145131. EUR 3.9M. 2024–2026.
+- PICNET — Circuitos fotonicos para redes opticas de proxima generacion. PI (Quside). CDTI. Exp. MIG-20241133. EUR 1.75M. 2025.
+
+## Teaching
+
+- Software Architecture for Quantum Computers — UPC Postgraduate Course in Quantum Engineering (2021–present). 3h/year.
+- PQC & QRNG Seminars — Master of Quantum Science and Technology, Universita di Bari (July 2025). 6h.
+- QRNG for Cybersecurity and Blockchain — QSecDef certified training course. Co-authored with D. Worrall (January 2026). 4–5h.
+
+### PhD Thesis Supervision
+- David Cirauqui Garcia — "Optimization with spin glass models" (UPC/ICFO, 2024, Sobresaliente). Co-supervised with Prof. Maciej Lewenstein.
+- Timothy Heightman — "Geometric Deep Learning in the Quantum Sciences" (ICFO, in progress). Co-supervised with Prof. Antonio Acin.
+
+### Master's Thesis Supervision
+- 4 completed (2020–2023): QRNG applications in finance, optimization, probability distributions on FPGA, and quantum chemistry.
+
+### Mentoring
+- Industry Mentor — Proyecto Aplicado de Ingenieria (PAE), UPC–ETSETB (2025)
+- Mentor — Tech2X, ESADE / EIT Higher Education Initiative (2025)
+
+## Projects
+
+### NanophotonicsLab
+Open browser-based nanophotonics simulation toolkit. Mie scattering, plasmonics, RCWA, BPM, laser calculators, and more. No installation required. https://nanophotonicslab.com
+
+### El Fotonario
+Interactive photonics education platform in Spanish. 9 courses, 145 exercises, 78 visualizations, 458-term glossary. Covers electromagnetic fundamentals through nanophotonics. https://joseramasa.github.io/fotonica/
+
+### PQC Course
+Open course materials for Post-Quantum Cryptography. Lecture notes (159 pages) and Beamer slides (69 frames) in LaTeX. https://github.com/joseramasa/pqc-course
+
+### Con la Venia
+Interactive visual novel for learning Spanish civil procedural law. Built with Ren'Py, deployed as web application. https://joseramasa.github.io/con-la-venia/
+
+### Science Outreach Books
+Author of chapters in three collaborative popular science books in Spanish (all CC-licensed):
+- Ciencia, y ademas lo entiendo (Ch. 62 & 63)
+- Ciencia, y yo quiero ser cientifico (Ch. 70)
+- Ciencia y otras easy pieces (Ch. 37)
+
+## Conferences and Seminars (selected)
+
+- OCP Global Summit, San Jose, CA (2024) — Quantum Random Number Generation
+- Akademia, Fundacion Innovacion Bankinter (2024)
+- UCM, Dia Internacional de la Luz (2021) — "De la Complu a la start-up"
+- SPIE Optics+Photonics, San Diego (2016, 2017, 2018)
+- SPP7, Jerusalem (2015)
+
+## Research Stay
+
+- Palo Alto Research Center (PARC) — Xerox. Research Intern (May–August 2017). Radar technologies, environmental sensors, optical filters, antenna design, energy harvesting.
+
+## Awards
+
+- Torres Quevedo 2018 — Postdoctoral contract. Agencia Estatal de Investigacion. Ref: PTQ2018-010146.
+- FI-DGR 2015 — Predoctoral fellowship. AGAUR, Generalitat de Catalunya. Ref: 2015 FI_B 00492.
+
+## Key Links
+
+- Homepage: https://joseramasa.github.io
+- Publications: https://joseramasa.github.io/publications/
+- Patents: https://joseramasa.github.io/patents/
+- Research: https://joseramasa.github.io/research/
+- Teaching: https://joseramasa.github.io/teaching/
+- CV: https://joseramasa.github.io/cv/
+- Projects: https://joseramasa.github.io/projects/
+- NanophotonicsLab: https://nanophotonicslab.com
+- El Fotonario: https://joseramasa.github.io/fotonica/
+- Employer: https://quside.com
+- Machine-readable profile: https://joseramasa.github.io/profile.json

@@ -226,13 +226,50 @@
     {% endcase %}
   {% endfor %}
 
-  <script type="application/ld+json">
-    {
-        "author":
-        {
-            "@type": "Person",
-            "name": "{{ author_name }}"
-        },
+  {% if page.url == '/' %}
+    <!-- ProfilePage with Person entity for homepage -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfilePage",
+        "mainEntity": {
+          "@type": "Person",
+          "name": "{{ author_name }}",
+          "jobTitle": ["VP of Innovation", "Lead Scientist"],
+          "worksFor": {
+            "@type": "Organization",
+            "name": "Quside Technologies",
+            "url": "https://quside.com"
+          },
+          "alumniOf": [
+            { "@type": "CollegeOrUniversity", "name": "Universitat Polit\u00e8cnica de Catalunya" },
+            { "@type": "CollegeOrUniversity", "name": "ICFO \u2014 The Institute of Photonic Sciences" },
+            { "@type": "CollegeOrUniversity", "name": "Universidad Complutense de Madrid" },
+            { "@type": "CollegeOrUniversity", "name": "Valar Institute" }
+          ],
+          "knowsAbout": [
+            "Quantum random number generation",
+            "Post-quantum cryptography",
+            "Photonics",
+            "Nanophotonics",
+            "High-performance computing",
+            "Cybersecurity",
+            "Intellectual property",
+            "Patent strategy"
+          ],
+          "url": "{{ site.url }}{{ site.baseurl }}/",
+          "image": "{{ site.url }}{{ site.baseurl }}/assets/img/prof_pic.jpg",
+          "description": "{{ site.description | strip_newlines | strip }}",
+          {% if sameaslinks != blank %}
+          "sameAs": {{ sameaslinks | jsonify }}
+          {% endif %}
+        }
+      }
+    </script>
+  {% else %}
+    <script type="application/ld+json">
+      {
+        "author": { "@type": "Person", "name": "{{ author_name }}" },
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
         "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
         "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
@@ -242,6 +279,7 @@
         {% endif %}
         "name": "{{ author_name }}",
         "@context": "https://schema.org"
-    }
-  </script>
+      }
+    </script>
+  {% endif %}
 {% endif %}
