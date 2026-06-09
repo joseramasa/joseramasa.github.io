@@ -134,6 +134,11 @@ cv:
         end_date: 2025
 
     Personal Projects:
+      - name: NanophotonicsLab
+        summary: "Open browser-based nanophotonics simulation toolkit. Mie scattering, plasmonics, RCWA, BPM, and more. [nanophotonicslab.com](https://nanophotonicslab.com/)"
+        start_date: 2026
+        end_date:
+
       - name: El Fotonario
         summary: "Interactive photonics education platform in Spanish. 9 courses, 145 exercises, 78 visualizations. [joseramasa.github.io/fotonica](https://joseramasa.github.io/fotonica/)"
         start_date: 2026

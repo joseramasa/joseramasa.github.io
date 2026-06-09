@@ -198,6 +198,7 @@ Author of chapters in popular science books:
 
 ## Personal Projects
 
+- **NanophotonicsLab** — Open browser-based nanophotonics simulation toolkit. Mie scattering, plasmonics, RCWA, BPM, and more. [nanophotonicslab.com](https://nanophotonicslab.com/)
 - **El Fotonario** — Interactive photonics education platform in Spanish. 9 courses, 145 exercises, 78 visualizations. [joseramasa.github.io/fotonica](https://joseramasa.github.io/fotonica/)
 - **Con la Venia** — Interactive visual novel for learning Spanish civil procedural law. Built with Ren'Py. [joseramasa.github.io/con-la-venia](https://joseramasa.github.io/con-la-venia/)
 
