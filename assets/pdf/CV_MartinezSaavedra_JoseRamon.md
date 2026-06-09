@@ -182,7 +182,7 @@ Radar technologies, environmental sensors, optical filters, antenna design, and 
 ## Languages
 
 - **Spanish:** Native
-- **English:** B2 certified (UOC, 2024)
+- **English:** Professional working proficiency
 
 ---
 

@@ -51,7 +51,7 @@ og_image: assets/img/prof_pic.jpg
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog
+blog_name: notes
 blog_description: Quantum tech, IP, law, and everything in between.
 permalink: /blog/:year/:title/
 lsi: false
