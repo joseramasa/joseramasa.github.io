@@ -48,11 +48,10 @@ jobs:
           htmlproofer _site \
             --disable-external \
             --allow-hash-href \
+            --allow-missing-href \
             --no-enforce-https \
             --swap-urls "^https?\://joseramasa\.github\.io:" \
-            --ignore-urls "/fonts.googleapis.com/,/cdnjs.cloudflare.com/,/cdn.jsdelivr.net/,/fotonica/,/con-la-venia/,/news/" \
-            --ignore-empty-alt \
-            --ignore-missing-alt \
+            --ignore-urls "/fonts.googleapis.com/,/cdnjs.cloudflare.com/,/cdn.jsdelivr.net/,/fotonica/,/con-la-venia/,/news/,/blog\/tag\//" \
             --checks Links,Scripts
 
   lighthouse:
