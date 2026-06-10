@@ -275,13 +275,13 @@ enable_google_verification: false
 # they would fire immediately — violating GDPR. Keep this true as a safeguard.
 enable_cookie_consent: true
 enable_masonry: false
-enable_math: true
+enable_math: false
 enable_tooltips: false
 enable_darkmode: true
 enable_navbar_social: false
 enable_project_categories: true
-enable_medium_zoom: true
-enable_progressbar: true
+enable_medium_zoom: false
+enable_progressbar: false
 enable_video_embedding: false
 
 # -----------------------------------------------------------------------------
