@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+My patent work focuses on making quantum randomness usable as infrastructure: generation of random numbers from compact photonic devices, transformation of bit streams into usable formats, distribution and metrics of entropy, workload acceleration, and application-level integration for cryptography and computing. Co-inventor across 8 families, with jurisdictions spanning US, EP, CN, and JP.
+
 ## 2023
 
 [**Method and apparatus for the acceleration of randomized workloads**](https://patents.google.com/patent/WO2025093569A1)
