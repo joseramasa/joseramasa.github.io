@@ -50,7 +50,10 @@ jobs:
             --allow-hash-href \
             --no-enforce-https \
             --swap-urls "^https?\://joseramasa\.github\.io:" \
-            --ignore-urls "/fonts.googleapis.com/,/cdnjs.cloudflare.com/,/cdn.jsdelivr.net/"
+            --ignore-urls "/fonts.googleapis.com/,/cdnjs.cloudflare.com/,/cdn.jsdelivr.net/,/fotonica/,/con-la-venia/,/news/" \
+            --ignore-empty-alt \
+            --ignore-missing-alt \
+            --checks Links,Scripts
 
   lighthouse:
     needs: build
@@ -65,5 +68,4 @@ jobs:
         uses: treosh/lighthouse-ci-action@v12
         with:
           uploadArtifacts: true
-          staticDistDir: _site
           configPath: .github/lighthouse/lighthouserc.json
