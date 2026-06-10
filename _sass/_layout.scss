@@ -48,6 +48,11 @@ body.sticky-bottom-footer {
  * Publications
  ******************************************************************************/
 
+// Ensure links in table cells are distinguishable without relying on color alone (WCAG link-in-text-block)
+.news td a {
+  text-decoration: underline !important;
+}
+
 // Publications layout is defined in _includes/bib_search.liquid
 // Uses jekyll-scholar for BibTeX parsing and Bootstrap cards for display
 
