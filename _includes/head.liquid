@@ -81,6 +81,7 @@
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+<link rel="alternate" type="text/plain" href="{{ '/llms.txt' | absolute_url }}" title="LLMs context">
 
 {% if site.enable_darkmode %}
   <!-- Dark Mode -->
