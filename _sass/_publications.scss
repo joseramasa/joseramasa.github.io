@@ -7,10 +7,10 @@
 .publications {
   margin-top: 2rem;
 
-  // Ensure links in text blocks are distinguishable without relying on color alone
-  td a,
-  .title a {
-    text-decoration: underline;
+  // Ensure links in text blocks are distinguishable without relying on color alone (WCAG link-in-text-block)
+  ol.bibliography td a,
+  ol.bibliography .title a {
+    text-decoration: underline !important;
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
 
