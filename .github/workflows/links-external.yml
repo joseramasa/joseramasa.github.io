@@ -1,0 +1,39 @@
+name: External link check
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Weekly, Monday 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3.5"
+          bundler-cache: true
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: "pip"
+      - name: Build site
+        run: |
+          sudo apt-get update && sudo apt-get install -y imagemagick
+          pip3 install --upgrade nbconvert
+          export JEKYLL_ENV=production
+          bundle exec jekyll build
+      - name: Check external links
+        run: |
+          gem install html-proofer
+          htmlproofer _site \
+            --allow-hash-href \
+            --allow-missing-href \
+            --no-enforce-https \
+            --swap-urls "^https?\://joseramasa\.github\.io:" \
+            --ignore-urls "/fonts.googleapis.com/,/cdnjs.cloudflare.com/,/cdn.jsdelivr.net/,/fotonica/,/con-la-venia/,/news/,/blog\/tag\//" \
+            --checks Links,Scripts \
+            --typhoeus '{"connecttimeout":10,"timeout":30}' \
+            --hydra '{"max_concurrency":5}' \
+            || true

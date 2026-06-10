@@ -1,14 +1,14 @@
 ---
 layout: page
 title: NanophotonicsLab
-description: The best browser-based nanophotonics toolkit. Open simulation tools for light-matter interactions at the nanoscale.
+description: Browser-based nanophotonics simulation toolkit. Mie scattering, plasmonics, RCWA, BPM, and more — no installation required.
 importance: 1
 category: outreach
 ---
 
-**[NanophotonicsLab — Open Nanophotonic Simulation Tools](https://nanophotonicslab.com/)**
+**[NanophotonicsLab — Browser-Based Nanophotonic Simulation](https://nanophotonicslab.com/)**
 
-The best browser-based nanophotonics toolkit. A collection of open, interactive simulation tools for researchers studying light-matter interactions at the nanoscale — from plasmonics and photonic crystals to quantum optics.
+A no-install browser toolkit for nanophotonic simulation and teaching. Interactive tools for light-matter interactions at the nanoscale — from plasmonics and photonic crystals to quantum optics.
 
 ### Tools
 
@@ -28,4 +28,3 @@ The best browser-based nanophotonics toolkit. A collection of open, interactive 
 - Runs entirely in the browser — no installation needed
 - Dark/light theme
 - Offline support via service worker
-- Open source on [GitHub](https://github.com/nanophotonicslab)
