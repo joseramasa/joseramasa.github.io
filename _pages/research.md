@@ -45,6 +45,7 @@ nav_order: 3
 ## Conferences and Seminars
 
 ### 2026
+- **How AI is Transforming Scientific Research** — Invited introductory seminar on AI tools for academic research: literature discovery, summarization, data analysis, and academic writing, with live demos. Universidad de Deusto, Faculty of Health Sciences (in Spanish). July 3, 2026. [(handout)](/assets/teaching/ai-research-deusto-2026.pdf)
 - **QRNG for Cybersecurity and Blockchain** — [QSecDef](https://www.quantumsecuritydefence.com/qrng) certified training course. Co-authored and co-presented with David Worrall. January 21, 2026. (4–5 hours)
 
 ### 2025
