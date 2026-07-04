@@ -29,6 +29,6 @@ VP of Innovation and Lead Scientist at [Quside Technologies](https://quside.com)
 
 At Quside I lead R&D strategy and technology transfer — from quantum random number generators to post-quantum cryptography stacks and entropy infrastructure at scale. I bridge the gap between our photonics hardware and the software and systems that make it deployable.
 
-**Ph.D. in Photonics** (UPC/ICFO, 2018, *Cum Laude*; advisor: F. J. García de Abajo). **MBA** (Valar Institute, 2025). Physics at Universidad Complutense de Madrid. Currently pursuing a **Law degree** (UOC) at the intersection of technology, IP, and regulation.
+**Ph.D. in Photonics** (UPC/ICFO, 2018, *Cum Laude*; advisor: [F. J. García de Abajo](https://www.nanophotonics.org)). **MBA** (Valar Institute, 2025). Physics at Universidad Complutense de Madrid. Currently pursuing a **Law degree** (UOC) at the intersection of technology, IP, and regulation.
 
 I teach [*Software Architecture for Quantum Computers*](https://upcschool.upc.edu/ing/estudis/formacio/curs/304400/postgrau-enginyeria-quantica/) at UPC, supervise doctoral theses at UPC and ICFO, and build open educational tools like [NanophotonicsLab](https://nanophotonicslab.com/) and [El Fotonario](https://joseramasa.github.io/fotonica/) *(in Spanish)*.
