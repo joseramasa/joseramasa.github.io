@@ -2,7 +2,6 @@
 layout: course
 title: Software Architecture for Quantum Computers
 description: Covers the full technology stack and software architecture for quantum computing. From quantum hardware to high-level software frameworks.
-instructor: José R. Martínez Saavedra
 year: 2026
 term: Spring
 location: UPC Campus Nord, Barcelona
