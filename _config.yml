@@ -13,7 +13,7 @@ keywords: José Ramón Martínez Saavedra, Quside, quantum random number generat
 lang: en
 icon: ⚛️
 
-url: https://joseramasa.github.io
+url: https://jrmsaavedra.com
 baseurl:
 last_updated: true
 back_to_top: true
@@ -43,7 +43,7 @@ max_width: 930px
 
 serve_og_meta: true
 serve_schema_org: true
-og_image: assets/img/prof_pic.jpg
+og_image: https://jrmsaavedra.com/assets/img/prof_pic.jpg
 
 # -----------------------------------------------------------------------------
 # Blog
