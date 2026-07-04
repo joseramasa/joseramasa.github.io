@@ -2,7 +2,6 @@
 layout: course
 title: PQC & QRNG Seminars — Università di Bari
 description: Invited seminars on Post-Quantum Cryptography and Quantum Random Number Generation at the Master of Quantum Science and Technology.
-instructor: José R. Martínez Saavedra
 year: 2025
 term: Summer
 location: Università degli Studi di Bari Aldo Moro, Italy
