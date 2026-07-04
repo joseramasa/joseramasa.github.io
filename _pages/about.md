@@ -25,10 +25,10 @@ latest_posts:
 
 I build deployable quantum-randomness infrastructure for **cybersecurity**, **high-performance computing**, and **post-quantum** systems — taking quantum physics from the lab to real-world products.
 
-VP of Innovation and Lead Scientist at [Quside Technologies](https://quside.com). Co-inventor across **8 patent families** (US, EP, CN, JP). PI of **€5.6M+** in competitive R&D funding ([Horizon Europe/EIC](https://cordis.europa.eu/project/id/101145131), CDTI). 30+ patent families under management.
+VP of Innovation and Lead Scientist at [Quside Technologies](https://quside.com). PI of **€5.6M+** in competitive R&D funding ([Horizon Europe/EIC](https://cordis.europa.eu/project/id/101145131), CDTI). Co-inventor of **8 patent families** (US, EP, CN, JP); I also oversee Quside's IP portfolio of 30+ patent families.
 
 At Quside I lead R&D strategy and technology transfer — from quantum random number generators to post-quantum cryptography stacks and entropy infrastructure at scale. I bridge the gap between our photonics hardware and the software and systems that make it deployable.
 
 **Ph.D. in Photonics** (UPC/ICFO, 2018, *Cum Laude*; advisor: F. J. García de Abajo). **MBA** (Valar Institute, 2025). Physics at Universidad Complutense de Madrid. Currently pursuing a **Law degree** (UOC) at the intersection of technology, IP, and regulation.
 
-I teach [*Software Architecture for Quantum Computers*](https://upcschool.upc.edu/ing/estudis/formacio/curs/304400/postgrau-enginyeria-quantica/) at UPC, supervise doctoral theses at UPC and ICFO, and build open educational tools like [NanophotonicsLab](https://nanophotonicslab.com/) and [El Fotonario](https://joseramasa.github.io/fotonica/).
+I teach [*Software Architecture for Quantum Computers*](https://upcschool.upc.edu/ing/estudis/formacio/curs/304400/postgrau-enginyeria-quantica/) at UPC, supervise doctoral theses at UPC and ICFO, and build open educational tools like [NanophotonicsLab](https://nanophotonicslab.com/) and [El Fotonario](https://joseramasa.github.io/fotonica/) *(in Spanish)*.
