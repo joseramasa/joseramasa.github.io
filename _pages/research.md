@@ -2,12 +2,24 @@
 layout: page
 permalink: /research/
 title: research
-description: Research projects, thesis supervision, and conference activity.
+description: Research projects, thesis supervision, and talks on entropy generation, its verification, and its use in cryptography and accelerated computing.
 nav: true
 nav_order: 3
 ---
 
 ## Research Projects
+
+[**GUARDIANE-Q — Integral security architecture for critical underground renewable-hydrogen storage infrastructures**](https://guardianeq.eu) *(ongoing)*
+- **Role:** Principal Investigator (Quside Technologies S.L.); Quside leads the post-quantum cybersecurity line (quantum entropy generation and PQC)
+- **Funding:** CDTI — Misiones Ciencia e Innovación
+- **Budget:** €7.04M (consortium)
+- **Period:** 2026 – 2029
+
+[**QUARTERNEXT — Next-generation quantum-safe communications for industrial deployment and certification**](https://quarternext.eu/) *(ongoing)*
+- **Role:** Principal Investigator (Quside Technologies S.L.); Quside contributes QRNG technology
+- **Funding:** Digital Europe Programme (coordinated by Luxquanta)
+- **Budget:** €10M (consortium)
+- **Period:** 2026 – 2030
 
 [**Quantum-based Randomness Processing Units (RPUs) for High-Performance Computation and Data Security**](https://cordis.europa.eu/project/id/101145131) *(completed)*
 - **Role:** Principal Investigator (Quside Technologies S.L.)

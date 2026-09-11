@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Personal projects on science education and law.
+description: Open teaching tools, outreach, and side projects.
 nav: true
 nav_order: 6
-display_categories: [outreach, law]
+display_categories: [outreach, side projects]
 horizontal: false
 ---
 

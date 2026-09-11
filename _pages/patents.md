@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My patent work focuses on making quantum randomness usable as infrastructure: generation of random numbers from compact photonic devices, transformation of bit streams into usable formats, distribution and metrics of entropy, workload acceleration, and application-level integration for cryptography and computing. Co-inventor across 8 families, with jurisdictions spanning US, EP, CN, and JP.
+My patent work covers the full path from entropy source to application: compact photonic entropy sources, conversion of raw bit streams into usable numeric formats, entropy-quality metrics and their distribution, acceleration of randomized workloads, and integration with cryptography and computing. Co-inventor across 8 families, with grants in Europe, the US, China and Japan.
 
 ## 2023
 

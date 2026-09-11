@@ -1,24 +1,23 @@
 # Jose Ramon Martinez Saavedra
 
-> Builds deployable quantum-randomness infrastructure for cybersecurity, high-performance computing, and post-quantum systems. VP of Innovation and Lead Scientist at Quside Technologies.
+> Builds verifiable entropy infrastructure for cybersecurity and accelerated computing. VP of Innovation at Quside Technologies.
 
 ## Summary
 
-Co-inventor across 8 patent families (US, EP, CN, JP). PI of EUR 5.6M+ in competitive R&D funding (Horizon Europe/EIC, CDTI). 30+ patent families under management. PhD in Photonics (UPC/ICFO). MBA (Valar Institute).
+Leads R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, drivers and SDKs (e.g. quside-curand for NVIDIA CUDA), NIST SP 800-90B-compliant sources (BSI AIS 20/31 evaluation in progress), and integration with post-quantum cryptography. Leads a team of ~10 and sets technical direction across engineering. Co-inventor across 8 patent families (US, EP, CN, JP); 30+ families under management. PI of EUR 7.5M+ in competitive R&D funding (Horizon Europe/EIC, CDTI, Digital Europe). PhD in Photonics (UPC/ICFO). MBA (Valar Institute).
 
 ## Key Links
 
-- Homepage: https://joseramasa.github.io
-- Full profile for LLMs: https://joseramasa.github.io/llms-full.txt
-- Machine-readable profile: https://joseramasa.github.io/profile.json
-- Publications: https://joseramasa.github.io/publications/
-- Patents: https://joseramasa.github.io/patents/
-- Research: https://joseramasa.github.io/research/
-- Teaching: https://joseramasa.github.io/teaching/
-- CV: https://joseramasa.github.io/cv/
-- Projects: https://joseramasa.github.io/projects/
+- Homepage: https://jrmsaavedra.com
+- Full profile for LLMs: https://jrmsaavedra.com/llms-full.txt
+- Machine-readable profile: https://jrmsaavedra.com/profile.json
+- Publications: https://jrmsaavedra.com/publications/
+- Patents: https://jrmsaavedra.com/patents/
+- Research: https://jrmsaavedra.com/research/
+- Teaching: https://jrmsaavedra.com/teaching/
+- CV: https://jrmsaavedra.com/cv/
+- Projects: https://jrmsaavedra.com/projects/
 - NanophotonicsLab: https://nanophotonicslab.com
-- El Fotonario: https://joseramasa.github.io/fotonica/
 - GitHub: https://github.com/joseramasa
 - LinkedIn: https://linkedin.com/in/jrmsaavedra
 - Employer: https://quside.com

@@ -2,7 +2,7 @@
 layout: page
 title: El Fotonario
 description: Óptica interactiva en español. De Fourier al plasmón, pasando por la fibra óptica. 9 cursos, 145 ejercicios, 78 visualizaciones.
-importance: 1
+importance: 3
 category: outreach
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Science Outreach Books
 description: Author of chapters in three popular science books in Spanish, coordinated by Quintín Garrido.
-importance: 3
+importance: 4
 category: outreach
 ---
 

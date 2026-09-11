@@ -1,8 +1,8 @@
 # joseramasa.github.io
 
-Personal website of Jose Ramon Martinez Saavedra — VP of Innovation and Lead Scientist at [Quside Technologies](https://quside.com).
+Personal website of Jose Ramon Martinez Saavedra — VP of Innovation at [Quside Technologies](https://quside.com). Verifiable entropy infrastructure for cybersecurity and accelerated computing.
 
-**Live:** [joseramasa.github.io](https://joseramasa.github.io)
+**Live:** [jrmsaavedra.com](https://jrmsaavedra.com)
 
 ## Stack
 
