@@ -1,10 +1,10 @@
 cv:
   name: José Ramón Martínez Saavedra
-  label: VP of Innovation · Physicist
+  label: VP of Innovation · Hardware Security & Entropy Infrastructure
   email: jrmsaavedra@gmail.com
   location: Barcelona, Spain
   image: ""
-  summary: VP of Innovation and Lead Scientist turning quantum photonics into deployable randomness infrastructure for cybersecurity, HPC, and post-quantum systems. Co-inventor across 8 patent families; PI of €5.6M+ competitive R&D funding; responsible for IP strategy, technology transfer, and product-facing research at Quside Technologies.
+  summary: VP of Innovation building verifiable entropy infrastructure for cybersecurity and accelerated computing, from photonic entropy sources and FPGA/silicon implementations to drivers, SDKs and certification. PI of €5.6M+ in competitive R&D funding; co-inventor of 8 patent families; responsible for a 30+ family IP portfolio at Quside Technologies.
 
   social_networks:
     - network: GitHub
@@ -15,25 +15,20 @@ cv:
   sections:
     Experience:
       - company: Quside Technologies S.L.
-        position: VP of Innovation · Lead Scientist
+        position: VP of Innovation (since 2023) · Lead Scientist (since 2018)
         location: Barcelona, Spain
         start_date: 2018
         end_date:
-        summary: Leading research, IP strategy, competitive funding, and technology transfer in quantum technologies and photonics.
+        summary: R&D, IP and funding leadership for verifiable entropy in cybersecurity and accelerated computing.
         highlights:
-          - Research leadership in quantum random number generation, photonics, and cybersecurity
-          - IP portfolio management — 30+ patent families (co-inventor in 8, across US, EP, CN, JP)
-          - PI of Horizon Europe project RPU (€3.9M) and CDTI project PICNET (€1.75M)
-          - Technology transfer from fundamental research to market-ready products
+          - "Lead R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, PCIe/USB devices, drivers (Linux, Windows, FreeBSD) and SDKs"
+          - "Brought verifiable entropy to GPU computing with quside-curand, a cuRAND-style API for NVIDIA CUDA workflows (2026)"
+          - "Drive certification and security integration: NIST SP 800-90B-compliant entropy sources and their integration with post-quantum cryptography"
+          - "Industrial partnerships, e.g. a scalable VCSEL-based entropy source demonstrated with Coherent (2026)"
+          - "IP strategy: 30+ patent families under management; co-inventor in 8 (US, EP, CN, JP)"
+          - "PI of Horizon Europe EIC project RPU (€3.9M) and CDTI project PICNET (€1.75M)"
 
     Education:
-      - institution: Valar Institute (Quantic School of Business and Technology)
-        location: Washington, DC
-        area: Business Administration
-        studyType: MBA
-        start_date: 2024
-        end_date: 2025
-
       - institution: Universitat Politècnica de Catalunya (UPC) / ICFO
         location: Barcelona, Spain
         area: Photonics
@@ -57,6 +52,13 @@ cv:
         start_date: 2008
         end_date: 2013
 
+      - institution: Valar Institute (Quantic School of Business and Technology)
+        location: Washington, DC
+        area: Business Administration
+        studyType: MBA
+        start_date: 2024
+        end_date: 2025
+
       - institution: Universitat Oberta de Catalunya
         location: Barcelona, Spain
         area: Law
@@ -77,7 +79,7 @@ cv:
 
     Research Stays:
       - company: Palo Alto Research Center (PARC) — Xerox
-        position: Research Intern
+        position: Research Intern, Hardware Systems Lab
         location: Palo Alto, California, US
         start_date: 2017-05
         end_date: 2017-08
@@ -133,7 +135,7 @@ cv:
         start_date: 2025
         end_date: 2025
 
-    Personal Projects:
+    Teaching & Outreach Tools:
       - name: NanophotonicsLab
         summary: "Open browser-based nanophotonics simulation toolkit. Mie scattering, plasmonics, RCWA, BPM, and more. [nanophotonicslab.com](https://nanophotonicslab.com/)"
         start_date: 2026
@@ -145,7 +147,7 @@ cv:
         end_date:
 
       - name: Con la Venia
-        summary: "Interactive visual novel for learning Spanish civil procedural law, built with Ren'Py. [joseramasa.github.io/con-la-venia](https://joseramasa.github.io/con-la-venia/)"
+        summary: "Side project: interactive visual novel for learning Spanish civil procedural law (Ren'Py). [joseramasa.github.io/con-la-venia](https://joseramasa.github.io/con-la-venia/)"
         start_date: 2026
         end_date:
 
@@ -154,16 +156,20 @@ cv:
         summary: Native
 
       - name: English
-        summary: Professional working proficiency
+        summary: Full professional proficiency
 
     Interests:
-      - name: Quantum Technologies
-        icon: fa-solid fa-atom
-        keywords: "Random number generation, Post-quantum cryptography, Quantum computing"
+      - name: Hardware Security & Entropy
+        icon: fa-solid fa-microchip
+        keywords: "Entropy sources, Randomness certification (NIST SP 800-90B), Post-quantum cryptography integration"
+
+      - name: Accelerated Computing
+        icon: fa-solid fa-server
+        keywords: "GPU/HPC workflows, Randomized workloads, Data-centre infrastructure"
 
       - name: Intellectual Property & Law
         icon: fa-solid fa-scale-balanced
-        keywords: "Patent prosecution, Technology regulation, Pursuing Law degree (UOC)"
+        keywords: "Patent strategy and prosecution, Technology regulation, Pursuing Law degree (UOC)"
 
       - name: Science Outreach
         icon: fa-solid fa-book

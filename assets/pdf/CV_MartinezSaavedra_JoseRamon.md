@@ -11,19 +11,31 @@ header-includes:
 
 # José Ramón Martínez Saavedra
 
-**VP of Innovation · Lead Scientist** | [Quside Technologies](https://quside.com) | Barcelona, Spain\
-Email: jrmsaavedra@gmail.com | [GitHub](https://github.com/joseramasa) | [LinkedIn](https://linkedin.com/in/jrmsaavedra) | [Web](https://joseramasa.github.io)
+**VP of Innovation · Hardware Security & Entropy Infrastructure** | [Quside Technologies](https://quside.com) | Barcelona, Spain\
+Email: jrmsaavedra@gmail.com | [GitHub](https://github.com/joseramasa) | [LinkedIn](https://linkedin.com/in/jrmsaavedra) | [Web](https://jrmsaavedra.com)
 
 ---
 
 ## Professional Experience
 
-**Quside Technologies S.L.** — VP of Innovation · Lead Scientist (2018 – Present)
+**Quside Technologies S.L.** — VP of Innovation (2023 – Present) · Lead Scientist (2018 – Present)
 
-- Research leadership in quantum random number generation, photonics, and cybersecurity
-- IP portfolio management — 30+ patent families (co-inventor in 8 across US, EP, CN, JP)
-- PI of Horizon Europe project RPU (€3.9M) and CDTI project PICNET (€1.75M)
-- Technology transfer from fundamental research to market-ready products
+- Lead R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, PCIe/USB devices, drivers (Linux, Windows, FreeBSD) and SDKs
+- Brought verifiable entropy to GPU computing with *quside-curand*, a cuRAND-style API for NVIDIA CUDA workflows (2026)
+- Certification and security integration: NIST SP 800-90B-compliant entropy sources; integration with post-quantum cryptography
+- Industrial partnerships, e.g. scalable VCSEL-based entropy source demonstrated with Coherent (2026)
+- IP strategy: 30+ patent families under management; co-inventor in 8 (US, EP, CN, JP)
+- PI of Horizon Europe EIC project RPU (€3.9M) and CDTI project PICNET (€1.75M)
+
+---
+
+## Representative Achievements
+
+1. **Loophole-free Bell inequality violation with superconducting circuits.** *Nature* 617, 265–270 (2023). Co-author.
+2. **RPU — Quantum-based Randomness Processing Units for HPC and Data Security.** Horizon Europe EIC, €3.9M. Principal Investigator (Quside), 2024–2026.
+3. **Patent family EP 3859520 B1 / JP 7486589 B2** — deciding whether a random number is above a threshold. Granted in Europe and Japan; US and CN pending.
+4. **Intrinsic plasmon–phonon interactions in highly doped graphene.** *Nano Letters* 17, 5908–5913 (2017).
+5. **PhD supervision:** *Optimization with spin glass models* (D. Cirauqui, UPC/ICFO, 2024, Sobresaliente), co-supervised with M. Lewenstein.
 
 ---
 
@@ -31,10 +43,10 @@ Email: jrmsaavedra@gmail.com | [GitHub](https://github.com/joseramasa) | [Linked
 
 | Period | Degree | Institution |
 |--------|--------|-------------|
-| 2024–2025 | **MBA** | Valar Institute (Quantic School of Business and Technology), Washington, DC |
 | 2014–2018 | **PhD in Photonics** (*Cum Laude*) | Universitat Politècnica de Catalunya (UPC) / ICFO. Director: F. Javier García de Abajo |
 | 2013–2014 | **MSc in Photonics** | UPC, UAB, UB, ICFO |
 | 2008–2013 | **Licenciado en Física** (Fundamental Physics) | Universidad Complutense de Madrid |
+| 2024–2025 | **MBA** | Valar Institute (Quantic School of Business and Technology), Washington, DC |
 | 2018–Present | **Grado en Derecho** (in progress) | Universitat Oberta de Catalunya |
 
 ---
@@ -182,7 +194,7 @@ Radar technologies, environmental sensors, optical filters, antenna design, and 
 ## Languages
 
 - **Spanish:** Native
-- **English:** Professional working proficiency
+- **English:** Full professional proficiency
 
 ---
 
@@ -206,6 +218,8 @@ Author of chapters in popular science books:
 
 ## Interests
 
-- **Quantum Technologies:** Random number generation, Post-quantum cryptography, Quantum computing
+- **Hardware Security & Entropy:** Entropy sources, randomness certification (NIST SP 800-90B), post-quantum cryptography integration
+- **Accelerated Computing:** GPU/HPC workflows, randomized workloads
+- **Quantum Technologies:** Random number generation, quantum computing
 - **Intellectual Property & Law:** Patent prosecution, Technology regulation
 - **University Service:** Member of the Faculty Board, Facultad de Ciencias Físicas, UCM (2011–2012)

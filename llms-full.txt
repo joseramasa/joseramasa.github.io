@@ -1,30 +1,30 @@
 # Jose Ramon Martinez Saavedra — Full Profile
 
-> VP of Innovation and Lead Scientist at Quside Technologies. Builds deployable quantum-randomness infrastructure for cybersecurity, high-performance computing, and post-quantum systems.
+> VP of Innovation at Quside Technologies. Builds verifiable entropy infrastructure for cybersecurity and accelerated computing.
 
 ## Identity
 
 - Name: Jose Ramon Martinez Saavedra
-- Titles: VP of Innovation, Lead Scientist
+- Titles: VP of Innovation (since 2023), Lead Scientist (since 2018)
 - Organization: Quside Technologies S.L. (2018–present)
 - Location: Barcelona, Spain
 - Email: jrmsaavedra@gmail.com
-- Website: https://joseramasa.github.io
+- Website: https://jrmsaavedra.com
 - GitHub: https://github.com/joseramasa
 - LinkedIn: https://linkedin.com/in/jrmsaavedra
 
 ## Professional Focus
 
-Takes quantum physics from the lab to real-world products. Designs and builds quantum random number generators, integrates them with post-quantum cryptography stacks, and pushes their use into high-performance computing and cybersecurity applications.
+Works on the randomness layer that cryptography and large-scale computing depend on, and on making it verifiable. Leads R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, PCIe/USB devices, drivers (Linux, Windows, FreeBSD) and SDKs. Recent public milestones: quside-curand, a cuRAND-style API that brings verifiable entropy to NVIDIA CUDA workflows (2026); a scalable VCSEL-based entropy source demonstrated with Coherent (2026); NIST SP 800-90B-compliant entropy sources; integration with post-quantum cryptography.
 
-Leads Quside's R&D strategy, manages an international patent portfolio (30+ families; co-inventor in 8 across US, EP, CN, JP), and coordinates competitive public funding. Bridges the gap between photonics hardware and the software/systems that make it deployable at scale.
+Also leads Quside's IP strategy (30+ patent families; co-inventor in 8 across US, EP, CN, JP) and competitive public funding (PI of EUR 5.6M+).
 
 ## Education
 
-- MBA — Valar Institute (Quantic School of Business and Technology), 2024–2025
 - PhD in Photonics (Cum Laude) — Universitat Politecnica de Catalunya / ICFO, 2014–2018. Advisor: F. Javier Garcia de Abajo
 - MSc in Photonics — UPC, UAB, UB, ICFO, 2013–2014
 - Licenciado en Fisica (Fundamental Physics) — Universidad Complutense de Madrid, 2008–2013
+- MBA — Valar Institute (Quantic School of Business and Technology), 2024–2025
 - Grado en Derecho (in progress) — Universitat Oberta de Catalunya, 2018–present
 
 ## Research Output
@@ -40,18 +40,18 @@ Key publications:
 - Loophole-free Bell inequality violation with superconducting circuits (Nature, 2023)
 - Quantum computing with graphene plasmons (npj Quantum Information, 2019)
 - Visible Optical Resonances in Electrically Doped DNA (ACS Photonics, 2019)
-- Hot-electron dynamics and thermalization in small metallic nanoparticles (ACS Photonics, 2016)
+- Intrinsic plasmon–phonon interactions in highly doped graphene (Nano Letters, 2017)
 
 ### Patents (8 families as co-inventor)
 
-All families ordered by priority date, with jurisdictions US/EP/CN/JP:
+Ordered by priority date; grants in Europe, the US, China and Japan:
 1. Method and apparatus for the acceleration of randomized workloads (2023) — WO 2025/093569 A1
 2. Methods, devices, and systems for entropy-related metrics (2023) — US 2025/0138785 A1
-3. Computer-implemented method for transforming a bit stream into a floating-point number (2022) — EP 4310666 A1; WO 2024/017907 A1
+3. Computer-implemented method for transforming a bit stream into a floating-point number (2022) — EP 4310666 A1; JP 2025-524683 A; WO 2024/017907 A1
 4. Computer-implemented method for finding an approximate QUBO solution (2021) — EP 4123480 A1
-5. Computer-implemented method for random number threshold comparison (2020) — EP 3859520 B1
+5. Computer-implemented method for random number threshold comparison (2020) — EP 3859520 B1; JP 7486589 B2
 6. Computer-implemented method for obtaining a CDF from a signal (2020) — EP 3937005 B1
-7. Compact device for generating random numbers (2019) — EP 3731081 B1
+7. Compact device for generating random numbers (2019) — EP 3731081 B1; CN 113826069 B
 8. Angle-insensitive multi-wavelength optical filters with hue control (2018) — US 10,928,569 B2
 
 ### Competitive Funding
@@ -76,19 +76,16 @@ All families ordered by priority date, with jurisdictions US/EP/CN/JP:
 - Industry Mentor — Proyecto Aplicado de Ingenieria (PAE), UPC–ETSETB (2025)
 - Mentor — Tech2X, ESADE / EIT Higher Education Initiative (2025)
 
-## Projects
+## Teaching & Outreach Tools
+
+### PQC Course
+Open course materials for Post-Quantum Cryptography. Lecture notes (159 pages) and Beamer slides (69 frames) in LaTeX. https://github.com/joseramasa/pqc-course
 
 ### NanophotonicsLab
 Open browser-based nanophotonics simulation toolkit. Mie scattering, plasmonics, RCWA, BPM, laser calculators, and more. No installation required. https://nanophotonicslab.com
 
 ### El Fotonario
-Interactive photonics education platform in Spanish. 9 courses, 145 exercises, 78 visualizations, 458-term glossary. Covers electromagnetic fundamentals through nanophotonics. https://joseramasa.github.io/fotonica/
-
-### PQC Course
-Open course materials for Post-Quantum Cryptography. Lecture notes (159 pages) and Beamer slides (69 frames) in LaTeX. https://github.com/joseramasa/pqc-course
-
-### Con la Venia
-Interactive visual novel for learning Spanish civil procedural law. Built with Ren'Py, deployed as web application. https://joseramasa.github.io/con-la-venia/
+Interactive photonics education platform in Spanish. 9 courses, 145 exercises, 78 visualizations, 458-term glossary. https://joseramasa.github.io/fotonica/
 
 ### Science Outreach Books
 Author of chapters in three collaborative popular science books in Spanish (all CC-licensed):
@@ -96,17 +93,21 @@ Author of chapters in three collaborative popular science books in Spanish (all 
 - Ciencia, y yo quiero ser cientifico (Ch. 70)
 - Ciencia y otras easy pieces (Ch. 37)
 
+### Side project: Con la Venia
+Interactive visual novel for learning Spanish civil procedural law (Ren'Py). https://joseramasa.github.io/con-la-venia/
+
 ## Conferences and Seminars (selected)
 
+- QSecDef webinar and certified course on entropy for PQC and blockchain (2026)
 - OCP Global Summit, San Jose, CA (2024) — Quantum Random Number Generation
 - Akademia, Fundacion Innovacion Bankinter (2024)
-- UCM, Dia Internacional de la Luz (2021) — "De la Complu a la start-up"
+- UCM invited seminars (2021, 2024, 2025)
 - SPIE Optics+Photonics, San Diego (2016, 2017, 2018)
 - SPP7, Jerusalem (2015)
 
 ## Research Stay
 
-- Palo Alto Research Center (PARC) — Xerox. Research Intern (May–August 2017). Radar technologies, environmental sensors, optical filters, antenna design, energy harvesting.
+- Palo Alto Research Center (PARC) — Xerox. Research Intern, Hardware Systems Lab (May–August 2017). Radar technologies, environmental sensors, optical filters, antenna design, energy harvesting.
 
 ## Awards
 
@@ -115,14 +116,13 @@ Author of chapters in three collaborative popular science books in Spanish (all 
 
 ## Key Links
 
-- Homepage: https://joseramasa.github.io
-- Publications: https://joseramasa.github.io/publications/
-- Patents: https://joseramasa.github.io/patents/
-- Research: https://joseramasa.github.io/research/
-- Teaching: https://joseramasa.github.io/teaching/
-- CV: https://joseramasa.github.io/cv/
-- Projects: https://joseramasa.github.io/projects/
+- Homepage: https://jrmsaavedra.com
+- Publications: https://jrmsaavedra.com/publications/
+- Patents: https://jrmsaavedra.com/patents/
+- Research: https://jrmsaavedra.com/research/
+- Teaching: https://jrmsaavedra.com/teaching/
+- CV: https://jrmsaavedra.com/cv/
+- Projects: https://jrmsaavedra.com/projects/
 - NanophotonicsLab: https://nanophotonicslab.com
-- El Fotonario: https://joseramasa.github.io/fotonica/
 - Employer: https://quside.com
-- Machine-readable profile: https://joseramasa.github.io/profile.json
+- Machine-readable profile: https://jrmsaavedra.com/profile.json

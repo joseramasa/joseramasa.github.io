@@ -2,7 +2,7 @@
 layout: page
 title: PQC Course
 description: Post-Quantum Cryptography course materials (slides + lecture notes). Work in progress.
-importance: 2
+importance: 1
 category: outreach
 ---
 

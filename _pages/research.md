@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Research projects, thesis supervision, and conference activity.
+description: Research projects, thesis supervision, and talks on entropy generation, its verification, and its use in cryptography and accelerated computing.
 nav: true
 nav_order: 3
 ---

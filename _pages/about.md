@@ -23,12 +23,12 @@ latest_posts:
   enabled: true
 ---
 
-I build deployable quantum-randomness infrastructure for **cybersecurity**, **high-performance computing**, and **post-quantum** systems — taking quantum physics from the lab to real-world products.
+I build **verifiable entropy infrastructure** for **cybersecurity** and **accelerated computing**: the randomness layer that keys, protocols and large-scale simulations depend on, and that is rarely checked.
 
-VP of Innovation and Lead Scientist at [Quside Technologies](https://quside.com). PI of **€5.6M+** in competitive R&D funding ([Horizon Europe/EIC](https://cordis.europa.eu/project/id/101145131), CDTI). Co-inventor of **8 patent families** (US, EP, CN, JP); I also oversee Quside's IP portfolio of 30+ patent families.
+As VP of Innovation at [Quside Technologies](https://quside.com), I lead R&D across that stack: photonic entropy sources and chips, FPGA and silicon implementations, drivers and SDKs, including [quside-curand](https://quside.com/quside-brings-verifiable-quantum-entropy-to-nvidia-cuda-workflows-with-quside-curand/), which brings verifiable entropy to NVIDIA CUDA workflows. I also drive certification ([NIST SP 800-90B](https://quside.com/nist-sp800-90b-compliant/)) and integration with post-quantum cryptography.
 
-At Quside I lead R&D strategy and technology transfer — from quantum random number generators to post-quantum cryptography stacks and entropy infrastructure at scale. I bridge the gap between our photonics hardware and the software and systems that make it deployable.
+I also run the IP and funding side: PI of **€5.6M+** in competitive R&D ([Horizon Europe/EIC](https://cordis.europa.eu/project/id/101145131), CDTI), co-inventor of **8 patent families** (US, EP, CN, JP), and responsible for a portfolio of 30+ families.
 
-**Ph.D. in Photonics** (UPC/ICFO, 2018, *Cum Laude*; advisor: [F. J. García de Abajo](https://www.nanophotonics.org)). **MBA** (Valar Institute, 2025). Physics at Universidad Complutense de Madrid. Currently pursuing a **Law degree** (UOC) at the intersection of technology, IP, and regulation.
+**Ph.D. in Photonics** (UPC/ICFO, 2018, *Cum Laude*; advisor: [F. J. García de Abajo](https://www.nanophotonics.org)), MSc in Photonics, and Physics at Universidad Complutense de Madrid. **MBA** (Valar Institute, 2025). Currently pursuing a **Law degree** (UOC) focused on technology, IP and regulation.
 
-I teach [*Software Architecture for Quantum Computers*](https://upcschool.upc.edu/ing/estudis/formacio/curs/304400/postgrau-enginyeria-quantica/) at UPC, supervise doctoral theses at UPC and ICFO, and build open educational tools like [NanophotonicsLab](https://nanophotonicslab.com/) and [El Fotonario](https://joseramasa.github.io/fotonica/) *(in Spanish)*.
+I teach in UPC's postgraduate programme in quantum engineering, co-supervise doctoral theses at ICFO, and build open teaching tools such as [NanophotonicsLab](https://nanophotonicslab.com/).

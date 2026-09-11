@@ -2,8 +2,8 @@
 layout: page
 title: Con la Venia
 description: Visual novel interactiva para aprender Derecho Procesal Civil. Construida con Ren'Py.
-importance: 2
-category: law
+importance: 1
+category: side projects
 ---
 
 **[Con la Venia — Derecho Procesal Civil](https://joseramasa.github.io/con-la-venia/)**

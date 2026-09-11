@@ -2,7 +2,7 @@
 layout: page
 title: NanophotonicsLab
 description: Browser-based nanophotonics simulation toolkit. Mie scattering, plasmonics, RCWA, BPM, and more — no installation required.
-importance: 1
+importance: 2
 category: outreach
 ---
 

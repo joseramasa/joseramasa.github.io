@@ -7,11 +7,11 @@ first_name: José Ramón
 middle_name:
 last_name: Martínez Saavedra
 description: >
-  José Ramón Martínez Saavedra — VP of Innovation at Quside Technologies. Physicist (PhD, ICFO/UPC). Quantum random number generation, post-quantum cryptography, photonics, and cybersecurity. 22 publications, 8 patent families.
+  José Ramón Martínez Saavedra — VP of Innovation at Quside Technologies. Verifiable entropy infrastructure for cybersecurity and accelerated computing: entropy sources, hardware security, post-quantum cryptography. PhD in Photonics (ICFO/UPC). 22 publications, 8 patent families.
 footer_text: ""
-keywords: José Ramón Martínez Saavedra, Quside, quantum random number generator, QRNG, post-quantum cryptography, PQC, quantum technologies, photonics, cybersecurity, patents, ICFO, UPC, randomness generation, high-performance computing, VP Innovation, nanophotonics, NanophotonicsLab, Mie scattering, plasmonics, RCWA
+keywords: José Ramón Martínez Saavedra, Quside, entropy, entropy source, hardware security, random number generation, QRNG, TRNG, NIST SP 800-90B, post-quantum cryptography, PQC, FPGA, accelerated computing, CUDA, HPC, cybersecurity, patents, IP strategy, photonics, ICFO, UPC, VP Innovation, NanophotonicsLab
 lang: en
-icon: ⚛️
+icon: 🎲
 
 url: https://jrmsaavedra.com
 baseurl:
@@ -50,7 +50,7 @@ og_image: https://jrmsaavedra.com/assets/img/prof_pic.jpg
 # -----------------------------------------------------------------------------
 
 blog_name: notes
-blog_description: Quantum tech, IP, law, and everything in between.
+blog_description: Entropy, hardware security, IP, and everything in between.
 permalink: /blog/:year/:title/
 lsi: false
 
