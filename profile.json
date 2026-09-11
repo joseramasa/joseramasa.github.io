@@ -37,7 +37,8 @@
     "patent_families_coinventor": 8,
     "patent_families_managed": "30+",
     "jurisdictions": ["US", "EP", "CN", "JP"],
-    "competitive_funding_eur": 5650000
+    "competitive_funding_eur": "7.5M+",
+    "team_direct_reports": "~10"
   },
   "highlights": [
     {
@@ -76,6 +77,20 @@
     }
   ],
   "research_projects": [
+    {
+      "name": "GUARDIANE-Q",
+      "funder": "CDTI (Misiones Ciencia e Innovacion)",
+      "budget_eur_consortium": 7040000,
+      "period": "2026-2029",
+      "role": "PI (Quside)"
+    },
+    {
+      "name": "QUARTERNEXT",
+      "funder": "Digital Europe Programme",
+      "budget_eur_consortium": 10000000,
+      "period": "2026-2030",
+      "role": "PI (Quside)"
+    },
     {
       "name": "RPU",
       "funder": "Horizon Europe / EIC",

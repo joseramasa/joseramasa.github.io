@@ -19,12 +19,13 @@ Email: jrmsaavedra@gmail.com | [GitHub](https://github.com/joseramasa) | [Linked
 
 **Quside Technologies S.L.** — VP of Innovation (2023 – Present) · Lead Scientist (2018 – Present)
 
+- Lead a team of ~10 and set technical direction across engineering (25–50 people)
 - Lead R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, PCIe/USB devices, drivers (Linux, Windows, FreeBSD) and SDKs
 - Brought verifiable entropy to GPU computing with *quside-curand*, a cuRAND-style API for NVIDIA CUDA workflows (2026)
-- Certification and security integration: NIST SP 800-90B-compliant entropy sources; integration with post-quantum cryptography
+- Certification and security integration: NIST SP 800-90B-compliant entropy sources; BSI AIS 20/31 evaluation in progress; integration with post-quantum cryptography
 - Industrial partnerships, e.g. scalable VCSEL-based entropy source demonstrated with Coherent (2026)
 - IP strategy: 30+ patent families under management; co-inventor in 8 (US, EP, CN, JP)
-- PI of Horizon Europe EIC project RPU (€3.9M) and CDTI project PICNET (€1.75M)
+- PI of €7.5M+ in competitive R&D funding: RPU (Horizon Europe EIC), PICNET (CDTI), GUARDIANE-Q (CDTI Misiones) and QUARTERNEXT (Digital Europe)
 
 ---
 
@@ -126,6 +127,8 @@ Patent families, ordered by priority date. Co-inventor in all listed families.
 
 ## Research Projects
 
+- **GUARDIANE-Q — Integral security architecture for critical renewable-hydrogen storage** *(ongoing)*. PI (Quside); Quside leads the post-quantum cybersecurity line. CDTI Misiones Ciencia e Innovación. €7.04M (consortium). 2026–2029.
+- **QUARTERNEXT — Quantum-safe communications for industrial deployment and certification** *(ongoing)*. PI (Quside). Digital Europe Programme, coordinated by Luxquanta. €10M (consortium). 2026–2030.
 - **RPU — Quantum-based Randomness Processing Units for HPC and Data Security** *(completed)*. PI (Quside). Horizon Europe — EIC. Grant Agreement 101145131. €3.9M. 03/2024–02/2026.
 - **PICNET — Circuitos fotónicos para redes ópticas de próxima generación** *(completed)*. PI (Quside). CDTI. Exp. MIG-20241133. €1.75M. 01/2025–12/2025.
 

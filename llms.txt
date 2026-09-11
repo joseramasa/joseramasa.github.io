@@ -4,7 +4,7 @@
 
 ## Summary
 
-Leads R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, drivers and SDKs (e.g. quside-curand for NVIDIA CUDA), NIST SP 800-90B-compliant sources, and integration with post-quantum cryptography. Co-inventor across 8 patent families (US, EP, CN, JP); 30+ families under management. PI of EUR 5.6M+ in competitive R&D funding (Horizon Europe/EIC, CDTI). PhD in Photonics (UPC/ICFO). MBA (Valar Institute).
+Leads R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, drivers and SDKs (e.g. quside-curand for NVIDIA CUDA), NIST SP 800-90B-compliant sources (BSI AIS 20/31 evaluation in progress), and integration with post-quantum cryptography. Leads a team of ~10 and sets technical direction across engineering. Co-inventor across 8 patent families (US, EP, CN, JP); 30+ families under management. PI of EUR 7.5M+ in competitive R&D funding (Horizon Europe/EIC, CDTI, Digital Europe). PhD in Photonics (UPC/ICFO). MBA (Valar Institute).
 
 ## Key Links
 

@@ -4,7 +4,7 @@ cv:
   email: jrmsaavedra@gmail.com
   location: Barcelona, Spain
   image: ""
-  summary: VP of Innovation building verifiable entropy infrastructure for cybersecurity and accelerated computing, from photonic entropy sources and FPGA/silicon implementations to drivers, SDKs and certification. PI of €5.6M+ in competitive R&D funding; co-inventor of 8 patent families; responsible for a 30+ family IP portfolio at Quside Technologies.
+  summary: VP of Innovation building verifiable entropy infrastructure for cybersecurity and accelerated computing, from photonic entropy sources and FPGA/silicon implementations to drivers, SDKs and certification. PI of €7.5M+ in competitive R&D funding; co-inventor of 8 patent families; responsible for a 30+ family IP portfolio at Quside Technologies.
 
   social_networks:
     - network: GitHub
@@ -21,12 +21,13 @@ cv:
         end_date:
         summary: R&D, IP and funding leadership for verifiable entropy in cybersecurity and accelerated computing.
         highlights:
+          - "Lead a team of ~10 and set technical direction across engineering (25–50 people)"
           - "Lead R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, PCIe/USB devices, drivers (Linux, Windows, FreeBSD) and SDKs"
           - "Brought verifiable entropy to GPU computing with quside-curand, a cuRAND-style API for NVIDIA CUDA workflows (2026)"
-          - "Drive certification and security integration: NIST SP 800-90B-compliant entropy sources and their integration with post-quantum cryptography"
+          - "Drive certification and security integration: NIST SP 800-90B-compliant entropy sources, BSI AIS 20/31 evaluation in progress, and integration with post-quantum cryptography"
           - "Industrial partnerships, e.g. a scalable VCSEL-based entropy source demonstrated with Coherent (2026)"
           - "IP strategy: 30+ patent families under management; co-inventor in 8 (US, EP, CN, JP)"
-          - "PI of Horizon Europe EIC project RPU (€3.9M) and CDTI project PICNET (€1.75M)"
+          - "PI for Quside in GUARDIANE-Q (CDTI Misiones, 2026–2029) and QUARTERNEXT (Digital Europe, 2026–2030); PI of RPU (Horizon Europe EIC, €3.9M) and PICNET (CDTI, €1.75M)"
 
     Education:
       - institution: Universitat Politècnica de Catalunya (UPC) / ICFO

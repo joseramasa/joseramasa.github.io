@@ -15,9 +15,9 @@
 
 ## Professional Focus
 
-Works on the randomness layer that cryptography and large-scale computing depend on, and on making it verifiable. Leads R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, PCIe/USB devices, drivers (Linux, Windows, FreeBSD) and SDKs. Recent public milestones: quside-curand, a cuRAND-style API that brings verifiable entropy to NVIDIA CUDA workflows (2026); a scalable VCSEL-based entropy source demonstrated with Coherent (2026); NIST SP 800-90B-compliant entropy sources; integration with post-quantum cryptography.
+Works on the randomness layer that cryptography and large-scale computing depend on, and on making it verifiable. Leads R&D across the entropy stack: photonic entropy sources and chips, FPGA and silicon implementations, PCIe/USB devices, drivers (Linux, Windows, FreeBSD) and SDKs. Recent public milestones: quside-curand, a cuRAND-style API that brings verifiable entropy to NVIDIA CUDA workflows (2026); a scalable VCSEL-based entropy source demonstrated with Coherent (2026); NIST SP 800-90B-compliant entropy sources (BSI AIS 20/31 evaluation in progress); integration with post-quantum cryptography. Leads a team of ~10 and sets technical direction across engineering (25–50 people).
 
-Also leads Quside's IP strategy (30+ patent families; co-inventor in 8 across US, EP, CN, JP) and competitive public funding (PI of EUR 5.6M+).
+Also leads Quside's IP strategy (30+ patent families; co-inventor in 8 across US, EP, CN, JP) and competitive public funding (PI of EUR 7.5M+).
 
 ## Education
 
@@ -56,6 +56,8 @@ Ordered by priority date; grants in Europe, the US, China and Japan:
 
 ### Competitive Funding
 
+- GUARDIANE-Q — Integral security architecture for critical renewable-hydrogen storage. PI (Quside); Quside leads the post-quantum cybersecurity line. CDTI Misiones Ciencia e Innovacion. EUR 7.04M (consortium). 2026–2029.
+- QUARTERNEXT — Quantum-safe communications for industrial deployment and certification. PI (Quside). Digital Europe Programme, coordinated by Luxquanta. EUR 10M (consortium). 2026–2030.
 - RPU — Quantum-based Randomness Processing Units for HPC and Data Security. PI (Quside). Horizon Europe / EIC. Grant Agreement 101145131. EUR 3.9M. 2024–2026.
 - PICNET — Circuitos fotonicos para redes opticas de proxima generacion. PI (Quside). CDTI. Exp. MIG-20241133. EUR 1.75M. 2025.
 
