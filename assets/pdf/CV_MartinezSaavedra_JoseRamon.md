@@ -1,6 +1,5 @@
 ---
-title: "CV — José Ramón Martínez Saavedra"
-author: José Ramón Martínez Saavedra
+pagetitle: "CV — José Ramón Martínez Saavedra"
 geometry: margin=2.2cm
 fontsize: 11pt
 header-includes:
