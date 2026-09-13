@@ -32,7 +32,7 @@ jobs:
             --allow-missing-href \
             --no-enforce-https \
             --swap-urls "^https?\://joseramasa\.github\.io:" \
-            --ignore-urls "/fonts.googleapis.com/,/cdnjs.cloudflare.com/,/cdn.jsdelivr.net/,/fotonica/,/con-la-venia/,/news/,/blog\/tag\//" \
+            --ignore-urls "/fonts.googleapis.com/,/cdnjs.cloudflare.com/,/cdn.jsdelivr.net/,/con-la-venia/,/news/,/blog\/tag\//" \
             --checks Links,Scripts \
             --typhoeus '{"connecttimeout":10,"timeout":30}' \
             --hydra '{"max_concurrency":5}' \

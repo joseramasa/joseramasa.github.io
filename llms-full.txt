@@ -86,9 +86,6 @@ Open course materials for Post-Quantum Cryptography. Lecture notes (159 pages) a
 ### NanophotonicsLab
 Open browser-based nanophotonics simulation toolkit. Mie scattering, plasmonics, RCWA, BPM, laser calculators, and more. No installation required. https://nanophotonicslab.com
 
-### El Fotonario
-Interactive photonics education platform in Spanish. 9 courses, 145 exercises, 78 visualizations, 458-term glossary. https://joseramasa.github.io/fotonica/
-
 ### Science Outreach Books
 Author of chapters in three collaborative popular science books in Spanish (all CC-licensed):
 - Ciencia, y ademas lo entiendo (Ch. 62 & 63)

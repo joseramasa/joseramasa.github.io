@@ -61,11 +61,6 @@
       "description": "Open browser-based nanophotonics simulation toolkit"
     },
     {
-      "name": "El Fotonario",
-      "url": "https://joseramasa.github.io/fotonica/",
-      "description": "Interactive photonics education platform in Spanish"
-    },
-    {
       "name": "PQC Course",
       "url": "https://github.com/joseramasa/pqc-course",
       "description": "Post-Quantum Cryptography course materials in LaTeX"

@@ -142,11 +142,6 @@ cv:
         start_date: 2026
         end_date:
 
-      - name: El Fotonario
-        summary: "Interactive photonics education platform in Spanish. 9 courses, 145 exercises, 78 visualizations. [joseramasa.github.io/fotonica](https://joseramasa.github.io/fotonica/)"
-        start_date: 2026
-        end_date:
-
       - name: Con la Venia
         summary: "Side project: interactive visual novel for learning Spanish civil procedural law (Ren'Py). [joseramasa.github.io/con-la-venia](https://joseramasa.github.io/con-la-venia/)"
         start_date: 2026
